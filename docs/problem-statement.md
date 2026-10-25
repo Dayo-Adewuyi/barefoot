@@ -3,7 +3,7 @@
 **Role:** Forward-deployed Engineering (first choice); Technical Product Management (second).
 
 Barefoot Health Initiative supports community health workers and patent medicine
-vendors in Ifo, Ogun State: often the only care a family can reach, and already on
+vendors: often the only care a family can reach, and already on
 WhatsApp. Barefoot is a WhatsApp teammate that checks danger signs first, gives the
 dose the national Standing Orders set for the worker's cadre and the patient's
 weight, and collects payment by Paystack link, including from a relative in Lagos
