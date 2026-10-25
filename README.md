@@ -109,27 +109,13 @@ Paystack test checkout; point the Paystack test webhook at
    `event_type_filter: "payment.verified"` and set `CHORD_EVENT_SUBSCRIPTION_ID` and
    `CHORD_EVENT_SIGNING_SECRET` on the server.
 
-## Demo script (simulator)
-
-1. "CHW-001 here. Child P-1042, 3 years, 10 kg, fever 2 days, malaria test positive."
-2. The agent asks the Ebola and danger-sign questions; answer no to all.
-3. It gives the dose with its page, checks stock and asks who pays. "Her son in Lagos."
-4. It sends a sponsor link and a message to forward. Open the link, **close it
-   without paying**, and say "he has paid": the agent finds it abandoned and keeps
-   the medicine on the shelf.
-5. Pay with a Paystack test card. "He has paid": verified, dispense recorded,
-   receipt, and a low-stock warning.
-6. New case: "Child P-1043 is having a fit now." No payment: the referral and the
-   facility's phone line come first; the next message hands the chat to a clinician.
-7. Optional: "Adult P-2001, fever 3 days, back from Uganda last week." The agent
-   treats it as suspected Ebola: no touching, isolate, call NCDC 6232, refer.
 
 ## Status
 
 | Part | State |
 | --- | --- |
 | Guidance, caregiver and sponsor payment, verify, dispense, refund, referral | Live in the simulator against Paystack test mode |
-| Paystack webhook → server → Chord event subscription | Live: Chord accepts the event and runs the teammate; it can't reach the worker yet (field note 3) |
+| Paystack webhook → server → Chord event subscription | 
 | Ebola screening, dose tables for all ages | Live; doses not yet doctor-approved (said in the chat) |
 | Human handover alert | Not set up: the go-live note's first condition |
 | Vouchers, restock orders, follow-ups, voice notes | Not built |
@@ -138,16 +124,7 @@ Paystack test checkout; point the Paystack test webhook at
 
 - Danger signs and Ebola exposure come first; emergencies never wait for payment.
 - Doses come only from the 2024 National Standing Orders for the worker's cadre, by
-  weight band and with a citation. Never from memory or *Where There Is No Doctor*.
-  No dose is doctor-approved yet; four source discrepancies are flagged for the
-  reviewer in `dose-tables.md`.
+  weight band and with a citation.
 - Patients are identified by pseudonymous codes only; names are rejected by the
   tool schema.
 
-## How AI tools were used
-
-Built with Claude Code (Anthropic). It read the Chord and Paystack docs, wrote the
-MCP server, tests, skill drafts and scripts, extracted the Standing Orders, and ran
-the deployment and uploads under my direction. I chose the problem and scope, ran
-every conversation in the simulator, decided each fix after reading the logs, and
-reviewed the clinical safety rules. Every tool was run and tested before it shipped.
