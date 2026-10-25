@@ -4,7 +4,6 @@ import path from "node:path";
 try {
   process.loadEnvFile();
 } catch {
-  // no .env: rely on the process environment
 }
 
 function env(name: string, fallback = ""): string {
@@ -13,7 +12,6 @@ function env(name: string, fallback = ""): string {
 
 const paystackSecret = env("PAYSTACK_SECRET_KEY");
 if (paystackSecret.startsWith("sk_live_")) {
-  // The TSG brief forbids live keys, and so does this build.
   throw new Error("PAYSTACK_SECRET_KEY is a live key. Use a sk_test_ key only.");
 }
 

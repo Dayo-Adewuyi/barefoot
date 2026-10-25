@@ -113,7 +113,6 @@ export class Store {
     return fn(this.data);
   }
 
-  /** Run a mutation exclusively and persist it. */
   write<T>(fn: (d: Ledger) => T | Promise<T>): Promise<T> {
     const run = this.queue.then(async () => {
       const result = await fn(this.data);

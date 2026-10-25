@@ -1,12 +1,6 @@
-import crypto from "node:crypto";
 import { z } from "zod";
 import type { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
-import { config } from "./config.js";
-import { Paystack, PaystackError } from "./paystack.js";
-import { reconcilePayment } from "./payments.js";
-import type { Payment, Store, StockItem } from "./store.js";
-
-// ---------- shared schemas and helpers ----------
+import { Clinic, ClinicError } from "./clinic.js";
 
 const workerCode = z
   .string()
@@ -19,62 +13,22 @@ const patientCode = z
   .describe("Pseudonymous patient code, e.g. P-1042. Never a name or phone number.");
 
 const reference = z.string().min(6).max(100).describe("Payment reference returned by create_payment_link");
+const sku = z.string().describe("SKU from check_stock");
+const quantity = z.number().int().min(1).max(5).default(1);
 
-type Json = Record<string, unknown>;
+const text = (payload: unknown) => [{ type: "text" as const, text: JSON.stringify(payload, null, 2) }];
 
-function ok(payload: Json) {
-  return { content: [{ type: "text" as const, text: JSON.stringify(payload, null, 2) }] };
+/** Runs a clinic action and turns a ClinicError into a tool-level error the agent can act on. */
+async function run(action: () => unknown) {
+  try {
+    return { content: text(await action()) };
+  } catch (err) {
+    if (!(err instanceof ClinicError)) throw err;
+    return { isError: true, content: text({ error_code: err.code, message: err.message, next_step: err.nextStep, ...err.extra }) };
+  }
 }
 
-/** Tool-level failure the agent must handle (not a crash). */
-function fail(error_code: string, message: string, next_step: string, extra: Json = {}) {
-  return {
-    isError: true,
-    content: [{ type: "text" as const, text: JSON.stringify({ error_code, message, next_step, ...extra }, null, 2) }],
-  };
-}
-
-const ngn = (kobo: number) => Math.round(kobo) / 100;
-const shortId = (prefix: string) => `${prefix}-${crypto.randomBytes(3).toString("hex").toUpperCase()}`;
-
-function stockView(item: StockItem) {
-  return {
-    sku: item.sku,
-    name: item.name,
-    unit: item.unit,
-    price_ngn: item.price_ngn,
-    qty_on_hand: item.qty,
-    in_stock: item.qty > 0,
-    low_stock: item.qty <= item.reorder_level,
-  };
-}
-
-function paymentView(p: Payment) {
-  return {
-    reference: p.reference,
-    status: p.status,
-    patient_code: p.patient_code,
-    sku: p.sku,
-    quantity: p.quantity,
-    amount_ngn: ngn(p.amount_kobo),
-    payer: p.payer,
-    sponsor_relationship: p.sponsor_relationship,
-    payment_link: p.authorization_url,
-    created_at: p.created_at,
-    verified_at: p.verified_at,
-    dispensed_receipt: p.dispensed_receipt,
-    gateway_message: p.gateway_message,
-  };
-}
-
-// ---------- registration ----------
-
-export function registerTools(server: McpServer, store: Store, paystack: Paystack): void {
-  const findWorker = (code: string) => store.read((d) => d.workers.find((w) => w.code === code));
-  const findItem = (worker: string, sku: string) =>
-    store.read((d) => (d.stock[worker] ?? []).find((i) => i.sku === sku));
-
-  // ---- check_stock ----
+export function registerTools(server: McpServer, clinic: Clinic): void {
   server.registerTool(
     "check_stock",
     {
@@ -88,121 +42,8 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       },
       annotations: { readOnlyHint: true },
     },
-    async ({ worker_code, item }) => {
-      const worker = findWorker(worker_code);
-      if (!worker) {
-        return fail("unknown_worker", `No health worker with code ${worker_code}.`, "Ask the worker to confirm their CHW code.");
-      }
-      const all = store.read((d) => d.stock[worker_code] ?? []);
-      const q = item?.toLowerCase().trim();
-      const matches = q
-        ? all.filter((i) => i.name.toLowerCase().includes(q) || i.keywords.some((k) => q.includes(k) || k.includes(q)))
-        : all;
-      return ok({
-        worker_code,
-        cadre: worker.cadre,
-        query: item ?? null,
-        items: matches.map(stockView),
-        note: matches.length ? undefined : "No matching item in this worker's stock. Do not recommend it; refer if it is needed.",
-      });
-    },
+    ({ worker_code, item }) => run(() => clinic.checkStock(worker_code, item)),
   );
-
-  // ---- create_payment_link / request_sponsor_payment ----
-  async function createPayment(args: {
-    worker_code: string;
-    patient_code: string;
-    sku: string;
-    quantity: number;
-    payer: "caregiver" | "sponsor";
-    sponsor_relationship?: string;
-  }) {
-    if (!findWorker(args.worker_code)) {
-      return fail("unknown_worker", `No health worker with code ${args.worker_code}.`, "Ask the worker to confirm their CHW code.");
-    }
-    const item = findItem(args.worker_code, args.sku);
-    if (!item) {
-      return fail("unknown_item", `SKU ${args.sku} is not in ${args.worker_code}'s stock.`, "Call check_stock and use a sku it returns.");
-    }
-    if (item.qty < args.quantity) {
-      return fail("out_of_stock", `${item.name}: only ${item.qty} on hand.`, "Do not take payment. Offer a referral or another vendor.", {
-        qty_on_hand: item.qty,
-      });
-    }
-
-    // No double charging for the same worker, patient and item: a payment that is
-    // already paid but not yet dispensed wins, then an open pending link.
-    const ttlMs = config.paymentLinkTtlHours * 3600_000;
-    const recent = store.read((d) =>
-      d.payments.filter(
-        (p) =>
-          p.worker_code === args.worker_code &&
-          p.patient_code === args.patient_code &&
-          p.sku === args.sku &&
-          Date.now() - Date.parse(p.created_at) < ttlMs,
-      ),
-    );
-    const paid = recent.find((p) => p.status === "success" && !p.dispensed_receipt && !p.refunded_at);
-    if (paid) {
-      return ok({
-        already_paid: true,
-        ...paymentView(paid),
-        next_step: "Do NOT send a new link. This item is already paid. Call record_dispense with this reference.",
-      });
-    }
-    const existing = recent.find((p) => p.status === "pending");
-    if (existing) {
-      return ok({ reused_existing_link: true, ...paymentView(existing), message_for_worker: "A link for this item is already open. Use the same one." });
-    }
-
-    const ref = `bf_${Date.now().toString(36)}_${crypto.randomBytes(4).toString("hex")}`;
-    const amount_kobo = item.price_ngn * 100 * args.quantity;
-    const email = `${args.patient_code.toLowerCase()}.${args.worker_code.toLowerCase()}@${config.paystack.payerEmailDomain}`;
-
-    let init;
-    try {
-      init = await paystack.initialize({
-        reference: ref,
-        amount_kobo,
-        email,
-        metadata: {
-          worker_code: args.worker_code,
-          patient_code: args.patient_code,
-          sku: args.sku,
-          quantity: args.quantity,
-          payer: args.payer,
-          sponsor_relationship: args.sponsor_relationship,
-          custom_fields: [
-            { display_name: "Item", variable_name: "item", value: item.name },
-            { display_name: "Patient code", variable_name: "patient_code", value: args.patient_code },
-          ],
-        },
-      });
-    } catch (err) {
-      const e = err as PaystackError;
-      console.error(`[paystack] initialize failed (HTTP ${e.httpStatus ?? "?"}): ${e.message}`);
-      return fail("gateway_error", `Could not create the payment link: ${e.message}`, "Tell the worker payment is unavailable right now and to try again in a few minutes. Do not release the medicine.");
-    }
-
-    const payment: Payment = {
-      reference: ref,
-      worker_code: args.worker_code,
-      patient_code: args.patient_code,
-      sku: args.sku,
-      quantity: args.quantity,
-      amount_kobo,
-      currency: "NGN",
-      payer: args.payer,
-      sponsor_relationship: args.sponsor_relationship,
-      authorization_url: init.authorization_url,
-      status: "pending",
-      created_at: new Date().toISOString(),
-    };
-    await store.write((d) => {
-      d.payments.push(payment);
-    });
-    return ok({ ...paymentView(payment), item_name: item.name, expires_in_hours: config.paymentLinkTtlHours, paystack_mode: paystack.mode });
-  }
 
   server.registerTool(
     "create_payment_link",
@@ -211,14 +52,9 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       description:
         "Create a Paystack payment link for one stocked item for a patient, paid by the caregiver on the spot. " +
         "Reuses an open link for the same patient and item instead of creating a duplicate.",
-      inputSchema: {
-        worker_code: workerCode,
-        patient_code: patientCode,
-        sku: z.string().describe("SKU from check_stock"),
-        quantity: z.number().int().min(1).max(5).default(1),
-      },
+      inputSchema: { worker_code: workerCode, patient_code: patientCode, sku, quantity },
     },
-    async (a) => createPayment({ ...a, payer: "caregiver" }),
+    (a) => run(() => clinic.requestPayment({ ...a, payer: "caregiver" })),
   );
 
   server.registerTool(
@@ -231,25 +67,14 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       inputSchema: {
         worker_code: workerCode,
         patient_code: patientCode,
-        sku: z.string().describe("SKU from check_stock"),
-        quantity: z.number().int().min(1).max(5).default(1),
+        sku,
+        quantity,
         sponsor_relationship: z.string().max(40).describe("Who is paying, relative to the patient, e.g. 'mother's son'"),
       },
     },
-    async (a) => {
-      const result = await createPayment({ ...a, payer: "sponsor" });
-      if ("isError" in result) return result;
-      const view = JSON.parse(result.content[0].text) as Json;
-      if (view.already_paid) return result; // never invite a sponsor to pay twice
-      const message =
-        `Hello. A community health worker with Barefoot is treating your family member (ref ${a.patient_code}). ` +
-        `The medicine costs ₦${view.amount_ngn}. You can pay securely here: ${view.payment_link}. ` +
-        `The medicine is given as soon as payment is confirmed.`;
-      return ok({ ...view, message_to_forward: message });
-    },
+    (a) => run(() => clinic.requestSponsorPayment(a)),
   );
 
-  // ---- verify_payment ----
   server.registerTool(
     "verify_payment",
     {
@@ -260,30 +85,9 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       inputSchema: { reference },
       annotations: { idempotentHint: true },
     },
-    async ({ reference: ref }) => {
-      let updated;
-      try {
-        updated = await reconcilePayment(store, paystack, ref);
-      } catch (err) {
-        return fail("gateway_error", `Paystack could not be reached: ${(err as Error).message}`, "Do not release. Ask the worker to wait a minute, then verify again.");
-      }
-      if (!updated) {
-        return ok({ reference: ref, status: "not_found", next_step: "Check the reference with the worker. Never assume it is paid." });
-      }
-
-      const next: Record<string, string> = {
-        success: "Call record_dispense with this reference, then tell the worker to dispense.",
-        pending: "Not paid yet. Do not release. Wait, or offer a sponsor request.",
-        abandoned: "Not paid yet. Do not release. Offer to resend the link or ask a sponsor.",
-        failed: "Payment failed. Do not release. Explain the reason simply and offer a new link or a sponsor.",
-        amount_mismatch: "Do not release. Hand over to a human to resolve the amount.",
-        refunded: "This payment was refunded. Do not release.",
-      };
-      return ok({ ...paymentView(updated), next_step: next[updated.status] ?? "" });
-    },
+    ({ reference }) => run(() => clinic.verifyPayment(reference)),
   );
 
-  // ---- record_dispense ----
   server.registerTool(
     "record_dispense",
     {
@@ -294,53 +98,9 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       inputSchema: { reference },
       annotations: { idempotentHint: true },
     },
-    async ({ reference: ref }) => {
-      const p = store.read((d) => d.payments.find((x) => x.reference === ref));
-      if (!p) return fail("not_found", `No payment ${ref}.`, "Check the reference.");
-      if (p.dispensed_receipt) {
-        return ok({ already_dispensed: true, receipt: p.dispensed_receipt, reference: ref });
-      }
-      if (p.status !== "success") {
-        return fail("not_paid", `Payment ${ref} is ${p.status}, not success.`, "Do not release. Call verify_payment first.");
-      }
-      return store.write((d) => {
-        // Re-check inside the lock: a concurrent dispense or refund may have landed.
-        const pay = d.payments.find((x) => x.reference === ref)!;
-        if (pay.dispensed_receipt) return ok({ already_dispensed: true, receipt: pay.dispensed_receipt, reference: ref });
-        if (pay.status !== "success") {
-          return fail("not_paid", `Payment ${ref} is ${pay.status}, not success.`, "Do not release. Call verify_payment first.");
-        }
-        const item = (d.stock[p.worker_code] ?? []).find((i) => i.sku === p.sku);
-        if (!item || item.qty < p.quantity) {
-          return fail("out_of_stock", `${p.sku} ran out after payment.`, "Call refund_payment, then offer a referral or another vendor.", {
-            qty_on_hand: item?.qty ?? 0,
-          });
-        }
-        item.qty -= p.quantity;
-        const receipt = shortId("RCPT");
-        pay.dispensed_receipt = receipt;
-        d.dispenses.push({
-          receipt,
-          reference: ref,
-          worker_code: p.worker_code,
-          patient_code: p.patient_code,
-          sku: p.sku,
-          quantity: p.quantity,
-          at: new Date().toISOString(),
-        });
-        return ok({
-          receipt,
-          reference: ref,
-          item: item.name,
-          qty_remaining: item.qty,
-          low_stock: item.qty <= item.reorder_level,
-          message_for_worker: "Dispense now, at the dose for the patient's weight band in the Standing Orders.",
-        });
-      });
-    },
+    ({ reference }) => run(() => clinic.dispense(reference)),
   );
 
-  // ---- refund_payment ----
   server.registerTool(
     "refund_payment",
     {
@@ -349,33 +109,9 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       inputSchema: { reference, reason: z.string().max(200) },
       annotations: { destructiveHint: true },
     },
-    async ({ reference: ref, reason }) => {
-      const p = store.read((d) => d.payments.find((x) => x.reference === ref));
-      if (!p) return fail("not_found", `No payment ${ref}.`, "Check the reference.");
-      if (p.status === "refunded") return ok({ reference: ref, status: "refunded", already_refunded: true });
-      if (p.dispensed_receipt) return fail("already_dispensed", "This item was already dispensed.", "Hand over to a human if there is a dispute.");
-      if (p.status !== "success") return fail("nothing_to_refund", `Payment is ${p.status}.`, "No money was taken; nothing to refund.");
-      // ponytail: the Paystack call runs inside the store lock so a dispense can't
-      // slip in between the check and the refund; it holds other writes for up to
-      // the 15 s fetch timeout. Use a "refunding" status if that ever matters.
-      return store.write(async (d) => {
-        const pay = d.payments.find((x) => x.reference === ref)!;
-        if (pay.dispensed_receipt) return fail("already_dispensed", "This item was already dispensed.", "Hand over to a human if there is a dispute.");
-        if (pay.status === "refunded") return ok({ reference: ref, status: "refunded", already_refunded: true });
-        try {
-          await paystack.refund(ref);
-        } catch (err) {
-          return fail("gateway_error", `Refund failed: ${(err as Error).message}`, "Hand over to a human to complete the refund.");
-        }
-        pay.status = "refunded";
-        pay.refunded_at = new Date().toISOString();
-        pay.refund_reason = reason;
-        return ok({ reference: ref, status: "refunded", amount_ngn: ngn(p.amount_kobo), message_for_worker: "The payment has been refunded to the payer." });
-      });
-    },
+    ({ reference, reason }) => run(() => clinic.refund(reference, reason)),
   );
 
-  // ---- create_referral ----
   server.registerTool(
     "create_referral",
     {
@@ -390,36 +126,9 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
         reason: z.string().min(3).max(300).describe("Danger signs or reason, no names"),
       },
     },
-    async ({ worker_code, patient_code, urgency, reason }) => {
-      const worker = findWorker(worker_code);
-      if (!worker) return fail("unknown_worker", `No health worker with code ${worker_code}.`, "Ask the worker to confirm their CHW code.");
-      const type = urgency === "emergency" ? "general_hospital" : "phc";
-      const candidates = store
-        .read((d) => d.facilities.filter((f) => f.type === type))
-        .sort((a, b) => (a.distance_km[worker.ward] ?? 999) - (b.distance_km[worker.ward] ?? 999));
-      const skipped = candidates.filter((f) => !f.accepting).map((f) => ({ name: f.name, reason: "not accepting patients now" }));
-      const chosen = candidates.find((f) => f.accepting);
-      if (!chosen) {
-        return fail("no_facility", "No suitable facility is accepting patients.", "Hand over to the on-call clinician now.", { skipped });
-      }
-      const code = shortId("REF");
-      await store.write((d) => {
-        d.referrals.push({ code, patient_code, worker_code, facility_id: chosen.id, urgency, reason, at: new Date().toISOString() });
-      });
-      return ok({
-        referral_code: code,
-        urgency,
-        facility: { name: chosen.name, phone: chosen.phone, distance_km: chosen.distance_km[worker.ward] ?? null },
-        skipped,
-        next_step:
-          urgency === "emergency"
-            ? "Give the worker the facility, referral code and phone now. Do NOT call handover_to_human in this reply: call it on the worker's next message."
-            : "Tell the worker when the patient should go.",
-      });
-    },
+    (a) => run(() => clinic.refer(a)),
   );
 
-  // ---- list_facilities ----
   server.registerTool(
     "list_facilities",
     {
@@ -428,14 +137,6 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       inputSchema: { worker_code: workerCode },
       annotations: { readOnlyHint: true },
     },
-    async ({ worker_code }) => {
-      const worker = findWorker(worker_code);
-      if (!worker) return fail("unknown_worker", `No health worker with code ${worker_code}.`, "Ask the worker to confirm their CHW code.");
-      const list = store
-        .read((d) => d.facilities)
-        .map((f) => ({ name: f.name, type: f.type, phone: f.phone, accepting: f.accepting, distance_km: f.distance_km[worker.ward] ?? null }))
-        .sort((a, b) => (a.distance_km ?? 999) - (b.distance_km ?? 999));
-      return ok({ worker_code, ward: worker.ward, facilities: list });
-    },
+    ({ worker_code }) => run(() => clinic.listFacilities(worker_code)),
   );
 }

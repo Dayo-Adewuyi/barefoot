@@ -10,7 +10,7 @@
     "build": "tsc -p tsconfig.json",
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "smoke": "tsx test/smoke.ts",
-    "test": "tsx test/signing.ts && tsx test/smoke.ts"
+    "test": "tsx test/signing.ts && tsx test/clinic.ts && tsx test/smoke.ts"
   },
   "engines": {
     "node": ">=20"

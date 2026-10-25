@@ -5,17 +5,19 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
 import { config } from "./config.js";
 import { Store } from "./store.js";
-import { Paystack } from "./paystack.js";
+import { Paystack, validPaystackSignature } from "./paystack.js";
+import { MockGateway, mockCheckoutRouter } from "./mock-checkout.js";
+import { Clinic } from "./clinic.js";
 import { registerTools } from "./tools.js";
-import { reconcilePayment } from "./payments.js";
 import { chordRelayEnabled, forwardToChord } from "./chord-relay.js";
 
 const store = new Store(config.dataFile, config.seedFile);
-const paystack = new Paystack(store);
+const gateway = config.paystack.secretKey ? new Paystack(config.paystack.secretKey) : new MockGateway(store);
+const clinic = new Clinic(store, gateway);
 
 function buildServer(): McpServer {
   const server = new McpServer({ name: "barefoot", version: "0.1.0" });
-  registerTools(server, store, paystack);
+  registerTools(server, clinic);
   return server;
 }
 
@@ -30,10 +32,8 @@ app.use((req, res, next) => {
 });
 
 app.get("/healthz", (_req, res) => {
-  res.json({ ok: true, paystack_mode: paystack.mode, chord_relay: chordRelayEnabled() });
+  res.json({ ok: true, paystack_mode: clinic.paymentMode, chord_relay: chordRelayEnabled() });
 });
-
-// ---------- MCP (Streamable HTTP, stateless) ----------
 
 function requireBearer(req: Request, res: Response, next: NextFunction) {
   if (!config.mcpBearerToken) return next(); // local dev only
@@ -71,10 +71,8 @@ const methodNotAllowed = (_req: Request, res: Response) => {
 app.get("/mcp", methodNotAllowed);
 app.delete("/mcp", methodNotAllowed);
 
-// ---------- Payment confirmed -> tell Chord ----------
-
 async function onPaymentConfirmed(reference: string, source: string) {
-  const p = await reconcilePayment(store, paystack, reference).catch((e) => {
+  const p = await clinic.reconcile(reference).catch((e) => {
     console.error(`[${source}] reconcile failed for ${reference}:`, (e as Error).message);
     return undefined;
   });
@@ -100,7 +98,7 @@ async function onPaymentConfirmed(reference: string, source: string) {
 // Paystack webhook: raw body is required for the HMAC-SHA512 signature check.
 app.post("/webhooks/paystack", express.raw({ type: "*/*", limit: "256kb" }), (req, res) => {
   const raw = req.body as Buffer;
-  if (!Paystack.validWebhookSignature(raw, req.get("x-paystack-signature"))) {
+  if (!validPaystackSignature(raw, req.get("x-paystack-signature"))) {
     res.sendStatus(401);
     return;
   }
@@ -121,48 +119,11 @@ app.get("/paid", (_req, res) => {
   res.sendFile(path.resolve("public/paid.html"));
 });
 
-// ---------- Mock pay page (only without a Paystack key) ----------
-
-if (paystack.mode === "mock") {
-  app.get("/mock/pay/:ref", (req, res) => {
-    const p = store.read((d) => d.payments.find((x) => x.reference === req.params.ref));
-    if (!p) {
-      res.status(404).send("Unknown payment reference");
-      return;
-    }
-    res.type("html").send(`<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Mock checkout</title>
-<body style="font-family:system-ui;max-width:28rem;margin:3rem auto;padding:0 1rem">
-<h1 style="font-size:1.25rem">Mock checkout (no real money)</h1>
-<p>Patient ${p.patient_code} · ${p.sku} × ${p.quantity}<br><strong>₦${(p.amount_kobo / 100).toLocaleString()}</strong></p>
-<form method="post"><button name="outcome" value="success">Pay</button>
-<button name="outcome" value="failed">Simulate decline</button>
-<button name="outcome" value="abandoned">Simulate abandon</button></form></body>`);
-  });
-
-  app.post("/mock/pay/:ref", express.urlencoded({ extended: false }), async (req, res) => {
-    const ref = String(req.params.ref);
-    const outcome = String(req.body?.outcome ?? "success") as "success" | "failed" | "abandoned";
-    if (!["success", "failed", "abandoned"].includes(outcome)) {
-      res.status(400).send("Bad outcome");
-      return;
-    }
-    const exists = store.read((d) => d.payments.some((x) => x.reference === ref));
-    if (!exists) {
-      res.status(404).send("Unknown payment reference");
-      return;
-    }
-    await store.write((d) => {
-      d.mock_outcomes[ref] = outcome;
-    });
-    if (outcome === "success") void onPaymentConfirmed(ref, "mock-pay");
-    res.type("html").send(`<p style="font-family:system-ui">Recorded: ${outcome}. You can close this page.</p>`);
-  });
+if (gateway instanceof MockGateway) {
+  app.use(mockCheckoutRouter(store, (ref) => void onPaymentConfirmed(ref, "mock-pay")));
 }
-
-// ---------- start ----------
 
 await store.load();
 app.listen(config.port, config.host, () => {
-  console.log(`Barefoot MCP on :${config.port} (paystack=${paystack.mode}, chord_relay=${chordRelayEnabled()}, auth=${config.mcpBearerToken ? "bearer" : "none"})`);
+  console.log(`Barefoot MCP on :${config.port} (paystack=${clinic.paymentMode}, chord_relay=${chordRelayEnabled()}, auth=${config.mcpBearerToken ? "bearer" : "none"})`);
 });

@@ -27,7 +27,6 @@
     padding: 24px 16px; overflow-x: hidden; position: relative;
   }
 
-  /* ---------- drifting colour blobs ---------- */
   .blob { position: fixed; border-radius: 50%; filter: blur(60px); opacity: .55; z-index: 0; animation: drift 18s ease-in-out infinite alternate; }
   .b1 { width: 340px; height: 340px; background: #5eead4; top: -90px; left: -80px; }
   .b2 { width: 300px; height: 300px; background: #fdba74; bottom: -80px; right: -60px; animation-duration: 22s; animation-delay: -6s; }
@@ -38,7 +37,6 @@
     100% { transform: translate(-30px,50px) scale(.95); }
   }
 
-  /* ---------- floating objects ---------- */
   .float { position: fixed; inset: 0; pointer-events: none; z-index: 1; overflow: hidden; }
   .float i {
     position: absolute; bottom: -60px; left: var(--x); width: var(--s); height: var(--s);
@@ -55,7 +53,6 @@
   }
   @keyframes spin { from { transform: rotate(-18deg) scale(.9); } to { transform: rotate(22deg) scale(1.1); } }
 
-  /* ---------- card ---------- */
   .card {
     position: relative; z-index: 2; width: 100%; max-width: 420px; text-align: center;
     background: var(--card); border: 1px solid var(--line); border-radius: 28px;
@@ -72,7 +69,6 @@
   .card > :nth-child(5) { animation-delay: .5s; }
   .card > :nth-child(6) { animation-delay: .65s; }
 
-  /* heart with ripples */
   .badge { position: relative; width: 112px; height: 112px; margin: 0 auto 6px; display: grid; place-items: center; }
   .badge::before, .badge::after, .badge span {
     content: ""; position: absolute; inset: 0; border-radius: 50%;
@@ -90,7 +86,6 @@
   .heart svg { width: 38px; height: 38px; }
   @keyframes beat { 0%,100% { transform: scale(1); } 14% { transform: scale(1.12); } 28% { transform: scale(1); } 42% { transform: scale(1.08); } }
 
-  /* ECG line */
   .ecg { width: 100%; max-width: 260px; height: 44px; margin: 4px auto 10px; display: block; }
   .ecg path {
     fill: none; stroke: var(--coral); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;
@@ -107,7 +102,6 @@
   @keyframes shimmer { to { background-position: 300% 0; } }
   .lead { color: var(--muted); margin-bottom: 22px; }
 
-  /* steps */
   ol { list-style: none; padding: 0; text-align: left; display: grid; gap: 4px; margin-bottom: 22px; }
   li { display: grid; grid-template-columns: 34px 1fr; gap: 12px; align-items: center; padding: 10px 12px; border-radius: 16px; }
   li.now { background: rgba(15,159,143,.09); }
