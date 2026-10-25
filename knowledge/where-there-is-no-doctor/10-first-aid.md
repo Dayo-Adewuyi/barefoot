@@ -1,0 +1,1330 @@
+---
+source: "Where There Is No Doctor (Hesperian Foundation, revised 1992, 2010 printing)"
+chapter: "First Aid"
+book_pages: "75-106"
+set: "core"
+precedence: "Current Nigerian national guidelines override this text. Never use it to choose a medicine or dose."
+---
+
+# First Aid
+
+> Source: *Where There Is No Doctor*, David Werner et al., Hesperian Foundation. Book pages 75-106.
+
+<!-- page 75 -->
+75
+
+10
+CHAPTER
+
+First Aid
+BASIC CLEANLINESS AND PROTECTION
+
+To prevent the spread of germs, always wash your hands with soap and water
+before and after giving first aid.
+When a person is hurt, the most important thing is to help. But you also must protect
+yourself from HIV and other blood-borne diseases. When someone is bleeding:
+1. If possible, show the injured person how to stop the bleeding themselves,
+by applying direct pressure on the wound.
+2. If they cannot do this, keep the blood off yourself by
+wearing gloves or a clean plastic bag on your hands,
+and placing a clean, thick cloth directly over the
+wound before applying pressure.
+Avoid objects soiled with blood. Be careful not to prick
+yourself with needles or other sharp objects around the person you are helping.
+Cover cuts or other wounds with dry, clean bandages to protect them.
+Be especially careful when you have to provide first aid where there are many
+people wounded from an accident or fighting.
+If you do get blood or other body fluids on you, wash your hands with soap and
+water as soon as possible. If other parts of your body were touched by body fluids
+(especially your eyes), wash them thoroughly with lots of water.
+
+FEVER
+
+YES
+
+When a person’s body temperature is too
+hot, he has a fever. Fever is not a sickness,
+but a sign of many different sicknesses. A
+high fever (over 39°C or over 102°F) can be
+dangerous, especially in a small child.
+When a person has a fever:
+1. Uncover him completely. Small children
+should be undressed completely and left
+naked until the fever goes down.
+
+This helps the fever go down.
+
+NO
+
+F resh air or a breeze will
+
+not
+harm
+Never wrap the child in clothing or blankets.
+a
+To wrap up a child with fever is dangerous.
+person with fever. On the
+contrary, a fresh breeze helps lower the
+fever.
+
+This makes the fever go up.
+
+2. Also take aspirin to lower fever (see p. 378).
+For small children, it is safer to give acetaminophen
+(paracetamol, p. 380). Be careful not to give too much.
+
+<!-- page 76 -->
+76
+
+3. Anyone who has a fever should drink lots of water, juices, or other liquids. For small
+children, especially babies, drinking water should be boiled first (and then cooled).
+Make sure the child passes urine regularly. If she does not pass much urine, or the
+urine is dark, give a lot more water.
+4. When possible, find and treat the cause of the fever.
+
+Very High Fevers
+A very high fever can be dangerous if it is not brought down soon. It can cause
+seizures (convulsions) or even permanent brain damage (paralysis, mental slowness,
+epilepsy, etc.). High fever is most dangerous for small children.
+When a fever goes very high (over 40°), it must be lowered at once:
+1. Put the person in a cool place.
+2. Remove all clothing.
+3. Fan him.
+4. Pour cool (not cold) water over him, or put cloths soaked in cool water on his
+chest and forehead. Fan the cloths and change them often to keep them cool.
+Continue to do this until the fever goes down (below 38°).
+
+5. Give him plenty of cool (not cold) water to drink.
+6. Give a medicine to bring down fever. Aspirin or acetaminophen works well.
+Dosage for acetaminophen or aspirin (using 300 mg. adult tablets):
+Persons over 12 years: 2 tablets every 4 hours
+Children 6 to 12 years: 1 tablet every 4 hours
+Children 3 to 6 years: 1/2 tablet every 4 hours
+Children under 3 years: 1/4 tablet every 4 hours
+Note: Acetaminophen is safer than aspirin for a child under 12 years old who has a
+cold, flu, or chickenpox (see p. 378).
+If a person with fever cannot swallow the tablets, grind them up, mix the powder with
+some water, and put it up the anus as an enema or with a syringe without the needle.
+If a high fever does not go down soon, if the person is
+unconscious, or if seizures (fits, convulsions) begin, continue
+cooling with water and seek medical help at once.
+
+<!-- page 77 -->
+77
+
+SHOCK
+Shock is a life threatening condition that can result from a large burn, losing a lot
+of blood, severe illnesses, dehydration, or severe allergic reaction. Heavy bleeding
+inside the body—although not seen—can also cause shock.
+Signs of SHOCK:
+• weak, rapid pulse (more than 100 per minute)
+• ‘cold sweat’; pale, cold, damp skin
+• blood pressure drops dangerously low
+• mental confusion, weakness, or loss of consciousness.
+What to do to prevent or treat shock:
+At the first sign of shock, or if there is risk of shock . . .
+♦ Loosen any belts or tight clothing the person may be wearing.
+♦ Have the person lie down with his feet a little higher than his head, like this:
+
+However, if he has a severe head injury, put him in a ‘half sitting’ position (p. 91).
+♦ Stop any bleeding. Use gloves or a plastic bag to keep the blood off your
+hands.
+♦ If the person feels cold, cover him with a blanket.
+♦ If he is conscious and able to drink, give him sips of water or other drinks. If
+he looks dehydrated, give a lot of liquid, and Rehydration Drink (p. 152). If he
+does not respond quickly, give intravenous fluids if you know how.
+♦ Treat his wounds, if he has any.
+♦ If he is in pain, give him aspirin or another pain medicine—but not one with a
+sedative such as codeine.
+♦ Keep calm, reassure the person, and seek medical help.
+If the person is unconscious:
+♦ Lay him on his side with his head low. If he seems to be choking, pull his
+tongue forward with your finger.
+♦ If he has vomited, clear his mouth immediately. Be sure his head is low, tilted
+back, and to one side (see above) so he does not breathe vomit into his lungs.
+If he has a neck or spine injury, do not tilt his head or move his back.
+♦ Do no give him anything by mouth until he becomes conscious.
+♦ If you or someone nearby knows how, give intravenous solution (normal saline)
+at a fast drip.
+♦ Seek medical help fast.
+
+<!-- page 78 -->
+78
+
+LOSS OF CONSCIOUSNESS
+Common causes of loss of
+consciousness are:
+• drunkenness
+• a hit on the head
+
+(getting
+knocked out)
+
+• fainting (from fright, weakness,
+low blood sugar, etc.)
+
+• shock (p. 77)
+
+• heat stroke (p. 81)
+
+• seizures (p. 178)
+
+• stroke (p. 327)
+
+• poisoning (p. 103)
+
+• heart attack (p. 325)
+
+If a person is unconscious and you do not know why, immediately check each of
+the following:
+1. Is he breathing well? If not, tilt his head way back and pull the jaw and tongue
+forward. If something is stuck in his throat, pull it out. If he is not breathing, use
+mouth-to-mouth breathing at once (see p. 80).
+2. Is he losing a lot of blood? If so, control the bleeding (see p. 82).
+3. Is he in shock (moist, pale skin; weak, rapid pulse)? If so, lay him with his head
+lower than his feet and loosen his clothing (see p. 77).
+4. Could it be heat stroke (no sweat, high fever, hot, red skin)? If so, shade him
+from the sun, keep his head higher than his feet, and soak him with cold water (ice
+water if possible) and fan him (see p. 81).
+How to position an unconscious person:
+very pale skin:
+(shock, fainting, etc.)
+
+red or normal skin:
+(heat stroke, stroke, heart problems, head injury)
+
+If there is any chance that the unconscious person is badly injured:
+It is best not to move him until he becomes conscious. If you have to move him, do
+so with great care, because if his neck or back is broken, any change of position may
+cause greater injury (see p. 100).
+Look for wounds or broken bones, but move the person as little as possible. Do not
+bend his back or neck..
+Never give anything by mouth to a person who is unconscious.
+
+<!-- page 79 -->
+79
+
+WHEN SOMETHING GETS STUCK IN THE THROAT
+When food or something else
+sticks in a person’s throat and he
+cannot breathe, quickly do this:
+♦ Stand behind him and
+wrap your arms around
+his waist,
+♦ put your fist against his
+CHOKING
+belly above the navel and
+below the ribs,
+♦ and press into his belly with a sudden strong
+upward jerk.
+This forces the air from his lungs and should free
+his throat. Repeat several times if necessary.
+If the person is a lot bigger than you, or is already
+unconscious, quickly do this:
+♦ Lay him on his back.
+♦ Tilt his head to one side.
+♦ Sit over him like this, with the heel of your
+lower hand on his belly between his navel
+and ribs. (For fat persons, pregnant women,
+persons in wheelchairs, or small children,
+place hands on the chest, not the belly.)
+♦ Make a quick, strong upward
+push.
+♦ Repeat several times if
+necessary.
+♦ If he still cannot breathe, try
+mouth-to-mouth breathing
+(see next page).
+
+DROWNING
+A person who has stopped breathing has only 4 minutes to live! You must
+act fast!
+Start mouth-to-mouth breathing at once (see next page)—if possible, even
+before the drowning person is out of the water, as soon as it is shallow enough to
+stand.
+If you cannot blow air into his lungs, when
+you reach the shore, quickly put him on his side
+with his head lower than his feet and push his
+belly as described above. Then continue
+mouth-to-mouth breathing at once.
+ALWAYS START MOUTH-TO-MOUTH
+BREATHING AT ONCE before trying to get
+water out of the drowning person’s chest.
+
+<!-- page 80 -->
+80
+
+WHAT TO DO WHEN BREATHING STOPS:
+MOUTH-TO-MOUTH BREATHING
+Common causes for breathing to stop are:
+• something stuck in the throat
+• the tongue or thick mucus blocking the throat of an unconscious person
+• drowning, choking on smoke, or poisoning
+• a strong blow to the head or chest
+• a heart attack
+A person can die within 4 minutes if he does not breathe.
+If a person stops breathing,
+begin mouth-to-mouth breathing IMMEDIATELY.
+Do all of the following as quickly as you can:
+Step 1: Quickly use a finger to remove anything stuck
+in the mouth or throat. Pull the tongue forward. If there is
+mucus in the throat, quickly try to clear it out.
+
+Step 2: Quickly but gently lay the person face
+up. Gently tilt his head back, and pull his jaw
+forward.
+
+Step 3: Pinch his nostrils closed with your
+fingers, open his mouth wide, cover his
+mouth with yours, and blow strongly into
+his lungs so that his chest rises. Pause to
+let the air come back out and blow again.
+Repeat about once every 5 seconds. With
+babies and small children, cover the nose
+and mouth with your mouth and breathe
+very gently about once every 3 seconds.
+Continue mouth-to-mouth breathing until the person can breathe by himself, or
+until there is no doubt he is dead. Sometimes you must keep trying for an hour or more.
+Note: Unless there is an open sore or bleeding in the mouth, it is not possible to give or
+get HIV from mouth-to-mouth breathing.
+
+<!-- page 81 -->
+EMERGENCIES CAUSED BY HEAT
+Heat Cramps
+In hot weather people who work hard and sweat a
+lot sometimes get painful cramps in their legs, arms, or
+stomach. These occur because the body lacks salt.
+Treatment: Put a teaspoon of salt in a liter of boiled
+water and drink it. Repeat once every hour until the
+cramps are gone. Have the person sit or lie down in a
+cool place and gently massage the painful areas.
+
+Heat Exhaustion
+Signs: A person who works and sweats a lot in hot weather may become very
+pale, weak, and nauseous, and perhaps feel faint. The skin is cool and moist. The
+pulse is rapid and weak. The temperature of the body is usually normal (see p. 31).
+Treatment: Have the person lie down in a cool place, raise his feet, and rub his
+legs. Give salt water to drink: 1 teaspoon of salt in a liter of water. (Give nothing by
+mouth while the person is unconscious.)
+
+Heat Stroke
+Heat stroke is not common, but is very dangerous. It occurs especially in older
+people, very fat people, and alcoholics during hot weather.
+Signs: The skin is red, very hot, and dry. Not even the armpits are moist. The
+person has a very high fever, sometimes more than 42°C, and a rapid heartbeat.
+Often he is unconscious.
+Treatment: The body temperature must be lowered immediately. Put the
+person in the shade. Soak him with cold water (ice water if possible) and fan him.
+Continue until the fever drops. Seek medical help.
+
+DIFFERENCES BETWEEN ‘HEAT EXHAUSTION’ AND ‘HEAT STROKE’:
+HEAT EXHAUSTION
+
+HEAT STROKE
+
+• sweaty, pale, cool skin
+
+• dry, red, hot skin
+
+• large pupils
+
+• high fever
+
+• no fever
+
+• the person is very ill
+
+• weakness
+
+For emergencies caused by cold, see p. 408 and 409.
+
+or unconscious
+
+81
+
+<!-- page 82 -->
+82
+
+HOW TO CONTROL BLEEDING FROM A WOUND
+1. Raise the
+injured part.
+
+2. With a clean thick cloth (or your hand if there is no
+cloth) press directly on the wound. Keep pressing
+until the bleeding stops. This may take 20 minutes or
+sometimes an hour or more. This type of direct pressure
+will stop the bleeding of nearly all wounds—sometimes
+even when a part of the body has been cut off.
+
+Occasionally direct pressure will not control bleeding, especially when the wound is
+very large or an arm or leg has been cut off. If this happens:
+♦ Keep pressing on the wound.
+
+PRESSURE POINTS
+
+♦ Keep the wounded part as high as possible.
+♦ You can maintain pressure by binding the
+wound tightly with a bandage or a piece of
+clean clothing.
+♦ Squeeze at pressure points on the artery that
+brings blood to that part of the body. Pressure
+points are where, using the flat part of your
+fingers, you can push the artery against a bone
+to shut off or slow down the flow of blood.
+
+♦	Keep pressing for 20 minutes before looking to see if the
+bleeding has stopped. Keep pressing with your other hand
+on the wound itself.
+
+PRECAUTIONS:
+• Do not use a tourniquet, rope, or wire to stop the bleeding. This usually results in
+total loss of the arm or leg.
+• Never use dirt, kerosene, lime, or coffee to stop bleeding.
+• When bleeding or injury is severe, raise the feet and lower the head to prevent
+shock (see p. 77).
+• Keep blood from getting into any cuts or sores on your skin (see p. 75).
+
+<!-- page 83 -->
+HOW TO STOP NOSEBLEEDS
+1. Sit quietly and upright.
+2. Blow the nose gently to remove
+mucus and blood.
+3. Have the person pinch the nose
+firmly for 10 minutes or until the
+bleeding has stopped.
+
+If this does not control the bleeding . . .
+Pack the nostril with a wad of
+cotton, leaving part of it outside
+the nose. If possible, first wet the
+cotton with Vaseline or lidocaine
+with epinephrine (p. 379).
+
+Then pinch the nose
+firmly again. Do not let go
+for 10 minutes or more. Do not tip the
+head back.
+Leave the cotton in place for a few hours after the bleeding stops; then take it out
+very carefully.
+In older persons especially, bleeding
+may come from the back part of the nose
+and cannot be stopped by pinching it. In
+this case, have the person hold a cork, corn
+cob, or other similar object between his teeth
+and, leaning forward, sit quietly and try not
+to swallow until the bleeding stops. (The cork
+helps keep him from swallowing, and that
+gives the blood a chance to clot.)
+Prevention:
+If a person’s nose bleeds often, smear a
+little Vaseline inside the nostrils twice a day. Or sniff water with a little salt in it
+(see p. 164).
+Eating oranges, tomatoes, and other fruits may help to strengthen the veins so
+that the nose bleeds less.
+
+83
+
+<!-- page 84 -->
+84
+
+CUTS, SCRAPES, AND SMALL WOUNDS
+Cleanliness is of first importance in preventing
+infection and helping wounds to heal.
+To treat a wound . . .
+First, wash your hands very
+well with soap and water.
+If the wound is bleeding or
+oozing, wear gloves or plastic bags on
+your hands. Wash the skin around the
+wound with soap and cool, boiled water.
+Now wash the wound well with cool,
+boiled water (and soap, if the wound has a lot
+of dirt in it. Soap helps clean but can damage
+the flesh).
+When cleaning the wound, be careful to clean
+out all the dirt. Lift up and clean under any flaps
+of skin. You can use clean tweezers, or a clean
+cloth or gauze, to remove bits of dirt, but always
+boil them first to be sure they are sterile.
+If possible, squirt out the wound with cool
+boiled water in a syringe or suction bulb.
+Any bit of dirt that is left in a wound
+can cause an infection.
+After the wound has been cleaned, apply a thin layer of antibiotic cream like
+Neosporin if you have it. Then place a piece of clean gauze or cloth over the top. It
+should be light enough so that the air can get to the wound and help it to heal. Change
+the gauze or cloth every day and look for signs of infection (see p. 88).
+If you have a dirty wound or a puncture wound, and have never had a tetanus
+immunization (see p. 388), get one within 2 days.
+NEVER put animal or human feces or mud on a wound.
+These can cause dangerous infections, such as tetanus.
+NEVER put alcohol, tincture of iodine, or Merthiolate
+directly into a wound; doing so will damage the flesh
+and make healing slower.
+
+<!-- page 85 -->
+LARGE CUTS: HOW TO CLOSE THEM
+A recent cut that is very clean will heal faster if you bring the edges together so
+the cut stays closed.
+Close a deep cut only if all of the following are true:
+• the cut is less than 12 hours old,
+• the cut is very clean, and
+• it is impossible to get a health worker to close it the same day.
+Before closing the cut, wash it very well with cool, boiled water (and soap, if the
+wound is dirty). If possible, squirt it out with a syringe and water. Be absolutely sure
+that no dirt or soap is left hidden in the cut.
+There are two methods to close a cut:
+‘BUTTERFLY’ BANDAGES OF ADHESIVE TAPE
+
+85
+
+<!-- page 86 -->
+86
+
+STITCHES OR SUTURES WITH THREAD
+
+To find out if a cut needs stitches see if the edges of the skin come together by
+themselves. If they do, usually no stitches are needed.
+To stitch a wound:
+♦ Boil a sewing needle and a thin thread (nylon or silk is best) for 20 minutes.
+♦ Wash the wound with cool, boiled water, as has been described.
+♦ Wash your hands very well with boiled water and soap.
+♦ Sew the wound like this:
+HOW TO TIE A
+GOOD KNOT
+
+2.
+
+1.
+
+1.
+
+2.
+
+3.
+
+Make the first stitch in the middle of the cut, and tie it closed (1. and 2.).
+If the skin is tough, hold the needle with a pair of pliers (or needle holder) that has
+been boiled.
+Make enough other stitches to close the whole cut (3.).
+Leave the stitches in place for 5 to 14 days (on the face 5 days; the body 10 days;
+the hand or foot 14 days). Then remove the stitches: cut the thread on one side of the
+knot and pull the knot until the thread comes out.
+WARNING: Only close wounds that are very clean and less than 12 hours old. Old,
+dirty, or infected wounds must be left open. Bites from people, dogs, pigs, or other
+animals should also be left open. Closing these can cause dangerous infections.
+If the wound that has been closed shows any signs of infection, remove the
+stitches immediately and leave the wound open (see p. 88).
+
+<!-- page 87 -->
+BANDAGES
+Bandages are used to help keep wounds clean. For this reason, bandages or
+pieces of cloth used to cover wounds must always be clean themselves. Cloth used
+for bandages should be washed and then dried with an iron or in the sun, in a clean,
+dust free place.
+Make sure the wound has first been cleaned, as shown on p. 84. If possible,
+cover the wound with a sterile gauze pad before bandaging. These pads are often
+sold in sealed envelopes in pharmacies.
+Or prepare your own sterile gauze or cloth. Wrap it in thick paper, seal it with
+tape, and bake it for 20 minutes in an oven. Putting a pan of water in the oven under
+the cloth will keep it from charring.
+It is better to have no bandage at all than one that is dirty or wet.
+If a bandage gets wet or dirt gets under it, take the bandage off, wash the cut
+again, and put on a clean bandage. Change the bandage every day.
+Examples of bandages:
+
+Note: For children
+it is often better to
+bandage the whole
+hand or foot instead
+of one finger or toe.
+The bandage will not
+come off as easily.
+CAUTION:
+Be careful that a bandage that goes around a limb is not so tight it cuts off the
+flow of blood.
+Many small scrapes and cuts do not need bandages. They heal best if washed
+with soap and water and left open to the air. The most important thing is to keep
+them clean.
+
+87
+
+<!-- page 88 -->
+88
+
+INFECTED WOUNDS:
+HOW TO RECOGNIZE AND TREAT THEM
+A wound is infected if:
+• it becomes red, swollen, hot, and painful,
+• it has pus,
+• or if it begins to smell bad.
+The infection is spreading to other parts of the body if:
+• it causes fever,
+• there is a red line above the wound,
+• or if the lymph nodes become swollen and tender. Lymph nodes—often called
+‘glands’ — are little traps for germs that form small lumps under the skin when
+they get infected.
+Swollen lymph nodes behind the ear are a sign of an
+infection on the head or scalp, often caused by sores or
+lice. Or German measles may be the cause.
+Swollen nodes below the ear and on the neck indicate
+infections of the ear, face, or head (or tuberculosis).
+Swollen nodes below the jaw indicate
+infections of the teeth or throat.
+
+Swollen nodes in the armpit indicate an infection of the
+arm, head, or breast (or sometimes breast cancer).
+Swollen nodes in the groin indicate an infection of the
+leg, foot, genitals, or anus.
+
+Treatment of infected wounds:
+♦ Put hot compresses over the wound for 20 minutes 4 times a day. Or hold an
+infected hand or foot in a bucket of hot water.
+♦ Keep the infected part at rest and elevated (raised above the level of the heart).
+♦ If the infection is severe or if the person has not been vaccinated against tetanus, use
+an antibiotic like penicillin (see p. 351, 352) and also give metronidazole (p. 368).
+WARNING: If the wound has a bad smell, if brown or gray liquid oozes out, or if the
+skin around it turns black and forms air bubbles or blisters, this may be gangrene.
+Seek medical help fast. Meanwhile, follow the instructions for gangrene on p. 213.
+
+<!-- page 89 -->
+89
+
+WOUNDS THAT ARE LIKELY TO BECOME
+DANGEROUSLY INFECTED
+These wounds are most likely to become
+dangerously infected:
+• dirty wounds, or wounds
+made with dirty objects
+• puncture wounds and
+other deep wounds that
+do not bleed much
+• wounds made where
+animals are kept: in
+corrals, pig pens, etc.
+• large wounds with
+severe mashing
+or bruising
+• bites, especially from
+pigs, dogs, or people
+• bullet wounds
+Special care for this type of ‘high risk’ wound:
+1. Wash the wound well with boiled water and soap. Remove all pieces of
+dirt, blood clots, and dead or badly damaged flesh. Squirt out the dirt
+using a syringe or suction bulb.
+2. If the wound is very deep, if it is a bite, or if there is a chance that it still has
+dirt in it, give an antibiotic such as ceftriaxone, or another cephalosporin
+for 3 to 7 days (p. 358). If you do not have this type of medicine, give
+erythromycin (p. 354), sulfamethoxazole with trimethoprim (p. 357), or a
+sulfa drug (p. 357).
+3. Never close this type of wound with stitches or ‘butterfly’ bandages.
+Leave the wound open. If it is very large, a skilled health worker or a
+doctor may be able to close it later.
+The danger of tetanus is very great in people who have not been vaccinated
+against this deadly disease. To lower the risk, a person who has not been
+vaccinated against tetanus should take penicillin or ampicillin immediately after
+receiving a wound of this type, even if the injury is small.
+If the wound of this type is very severe, a person who has not been vaccinated
+against tetanus should take large doses of penicillin or ampicillin for a week or more.
+An antitoxin for tetanus (p. 388) should also be considered but be sure to take the
+precautions on p. 70 if using tetanus antitoxin made from horse serum.
+If the wound is from an animal bite and there is a chance of rabies (see p. 181),
+get an immunization right away.
+
+<!-- page 90 -->
+90
+
+BULLET, KNIFE, AND OTHER SERIOUS WOUNDS
+Danger of infection: Any deep bullet or knife wound runs a high risk of dangerous
+infection. For this reason an antibiotic, preferably penicillin (p. 351) or ampicillin (p. 352)
+should be used at once.
+Persons who have not been vaccinated against tetanus should, if possible, be given
+an injection of an antitoxin for tetanus (p. 389), and also be vaccinated against tetanus.
+If possible, seek medical help.
+
+Bullet Wounds in the Arms or Legs
+♦ If the wound is bleeding a lot, control the bleeding as shown on page 82.
+♦ If the bleeding is not serious, let the wound bleed for a short while. This will help
+clean it out.
+♦ Wash the wound with cool, boiled water. In the case of a gunshot wound, wash
+the surface (outside) only. It is usually better not to poke anything into the hole.
+After cleaning, apply a clean bandage.
+♦ Give antibiotics.
+
+CAUTION:
+If there is any possibility that
+the bullet has hit a bone, the
+bone may be broken.
+Using or putting weight on
+the wounded limb (standing,
+for example) might cause a
+more serious break, like this:
+If a break is suspected, it is
+best to splint the limb and not to
+use it for several weeks.
+
+<!-- page 91 -->
+When the wound is serious, raise the wounded part a little higher than the heart
+and keep the injured person completely still.
+This way the wound will heal
+faster and is less likely to
+become infected.
+
+YES
+
+Walking on an injured leg or
+sitting with the leg hanging down
+will slow healing and encourage
+infection.
+
+NO
+Make a sling like this to support an arm with a gunshot wound or other serious injury.
+
+Deep Chest Wounds
+Chest wounds can be very dangerous. Seek medical help
+at once.
+♦ If the wound has reached the lungs and air is being
+sucked through the hole when the person breathes,
+cover the wound at once so that no more air enters.
+Spread Vaseline or vegetable fat on a gauze pad or
+clean bandage and wrap it tightly over the hole like
+this: (CAUTION: If this tight bandage makes breathing
+more difficult, try loosening or removing it.)
+♦ Put the injured person in the position in which he feels
+most comfortable
+♦ If there are signs of shock, give proper treatment (see p. 77).
+♦ Give antibiotics and painkillers.
+
+Bullet Wounds in the Head
+♦ Place the injured person in a ‘half sitting’ position.
+♦ Cover the wound with a clean bandage.
+♦ Give antibiotics (penicillin).
+♦ Seek medical help.
+
+91
+
+<!-- page 92 -->
+92
+
+Deep Wounds in the Abdomen
+Any wound that goes into the belly or gut is dangerous. Seek medical help
+immediately. But in the meantime:
+Cover the wound with a clean bandage.
+If the guts are partly outside the wound, cover
+them with a clean cloth soaked in lightly salted,
+cool, boiled water. Do not try to push the guts
+back in. Make sure the cloth stays wet.
+If
+the wounded person is in
+shock, raise his feet higher
+than his head.
+
+Give absolutely nothing by mouth: no food, no
+drink, not even water—unless it will take more than
+2 days to get to a health center. Then give water
+only, in small sips.
+If the wounded person is awake and thirsty, let him
+suck on a piece of cloth soaked in water.
+Never give an enema, even if the stomach
+swells up or the injured person does not move his
+bowels for days. If the gut is torn, an enema or
+purge can kill him.
+
+Inject antibiotics (see the following
+page for instructions).
+
+DO NOT WAIT FOR A HEALTH
+WORKER.
+IMMEDIATELY TAKE THE
+INJURED PERSON TO THE
+CLOSEST HEALTH CENTER
+OR HOSPITAL. He will need an
+operation.
+
+<!-- page 93 -->
+93
+
+MEDICINE FOR A WOUND THAT GOES INTO THE GUT
+(Also for appendicitis or peritonitis)
+Until you can get medical help, do the following:
+Inject ampicillin (p. 352), 2 gm. (eight 250 mg. ampules) every 6 hours.
+Also give 500 mg. metronidazole (p. 369) every 6 hours.
+If there is no ampicillin:
+Inject penicillin (crystalline, if possible, p. 352), 5 million Units immediately;
+after that, 1 million units every 4 hours. Also give metronidazole.
+OR give 500 mg. of ciprofloxacin every 12 hours. Also give metronidazole.
+If you do not have these antibiotics in injectable form, give ampicillin or penicillin
+or ciprofloxacin by mouth, together with metronidazole and very little water.
+
+EMERGENCY PROBLEMS OF THE GUT (ACUTE ABDOMEN)
+Acute abdomen is a name given to a number of sudden, severe conditions of
+the gut for which prompt surgery is often needed to prevent death. Appendicitis,
+peritonitis, and gut obstruction are examples (see following pages). In women, pelvic
+inflammatory disease (often with vaginal discharge, see p. 243), or an out of place
+pregnancy (in the tubes) can also cause an acute abdomen. The exact cause of acute
+abdomen may be uncertain until a surgeon cuts open the belly and looks inside.
+If a person has continuous severe gut pain with vomiting,
+but does not have diarrhea, suspect an acute abdomen.
+ACUTE ABDOMEN:
+
+LESS SERIOUS ILLNESS:
+
+Take to a hospital—
+surgery may be needed
+
+Probably can be treated
+in the home or health center
+
+• continuous severe pain that keeps
+getting worse
+• constipation and vomiting
+
+• pain that comes and goes (cramps)
+• moderate or severe diarrhea
+
+• belly swollen, hard, person protects it
+
+• sometimes signs of an infection,
+perhaps a cold or sore throat
+
+• severely ill
+
+• he has had pains like this before
+• only moderately ill
+
+If a person shows signs of acute abdomen,
+get him to a hospital as fast as you can.
+
+<!-- page 94 -->
+94
+
+Obstructed Gut
+An acute abdomen may be caused by something that blocks or ‘obstructs’ a part of
+the gut, so that food and stools cannot pass. More common causes are:
+• a ball or knot of roundworms (Ascaris, p. 140)
+• a loop of gut that is pinched in a hernia (p. 177)
+• a part of the gut that slips inside the part below it (intussusception)
+Almost any kind of acute abdomen may show some signs of obstruction. Because it
+hurts the damaged gut to move, it stops moving.
+Signs of an obstructed gut:
+
+Steady, severe pain in the belly.
+This child’s belly is swollen, hard, and very
+tender. It hurts more when you touch it. He tries
+to protect his belly and keeps his legs doubled
+up. His belly is often ‘silent’. (When you put your
+ear to it, you hear no sound of normal gurgles.)
+
+Sudden vomiting with great
+force! The vomit may shoot
+out a meter or more. It may
+have green bile in it or
+smell and look like feces.
+
+He is usually constipated (little
+or no bowel movements). If there
+is diarrhea, it is only a little bit.
+Sometimes all that comes out is
+some bloody mucus.
+Get this person to a hospital as fast as possible. His life is in danger and surgery
+may be needed.
+
+Appendicitis, Peritonitis
+These dangerous conditions often
+require surgery. Seek medical help fast.
+Appendicitis is an infection of the
+appendix, a finger shaped sac attached to
+the large intestine in the lower right hand
+part of the belly. An infected appendix
+sometimes bursts open, causing peritonitis.
+Peritonitis is an acute, serious infection
+of the lining of the cavity or bag that holds
+the gut. It results when the appendix or
+another part of the gut bursts or is torn.
+
+small
+intestine
+
+large
+intestine
+APPENDIX
+
+stomach
+
+<!-- page 95 -->
+Signs of appendicitis:
+• The main sign is a steady pain in the belly
+that gets worse and worse.
+• The pain often begins around the navel
+(‘bellybutton’)
+but it soon moves to the lower right side.
+• There may be loss of appetite, vomiting,
+constipation, or a mild fever.
+TESTS FOR APPENDICITIS OR PERITONITIS:
+Have the person cough and
+see if this causes sharp pain
+in the belly.
+Or, slowly but forcefully, press
+on the abdomen a little above
+the left groin until it hurts a
+little.
+Then quickly remove the
+hand.
+If a very sharp pain (rebound
+pain) occurs when the hand
+is removed, appendicitis or
+peritonitis is likely.
+If no rebound pain occurs
+above the left groin, try the
+same test above the right
+groin.
+IF IT SEEMS THAT A PERSON HAS APPENDICITIS OR PERITONITIS:
+♦ Seek medical help immediately.
+If possible, take the person where
+he can have surgery.
+♦ Do not give anything by mouth
+and do not give an enema. Only if the person begins to show signs of
+dehydration, give sips of water or Rehydration Drink (p. 152) made with sugar
+and salt—but nothing more.
+♦ The person should rest very quietly in a half-sitting position.
+Note: When peritonitis is advanced, the belly becomes hard like a board, and the
+person feels great pain when his belly is touched even lightly. His life is in danger.
+Take him to a medical center immediately and on the way give him the medicines
+indicated at the top of page 93.
+
+95
+
+<!-- page 96 -->
+96
+
+BURNS
+Prevention:
+Most burns can be prevented. Take special care with
+children:
+Do not let small babies go near a fire.
+Keep lamps and matches out of reach.
+Turn handles of pans on the stove so children
+cannot reach them.
+
+Minor Burns that Do Not Form Blisters (1st degree)
+To help ease the pain and lessen the damage caused by a minor burn, put the
+burned part in cold water at once. No other treatment is needed. Take aspirin or
+acetaminophen for pain. Avoid giving aspirin to children.
+
+Burns that Cause Blisters (2nd degree)
+Do not break blisters. Do not put ice on the burn.
+If the blisters are broken, wash gently with soap and boiled water that has been
+cooled. Sterilize a little Vaseline by heating it until it boils. Let it cool and spread it on
+a piece of sterile gauze. Then put the gauze on the burn loosely so it does not put
+pressure on the wound.
+If there is no Vaseline, leave the burn uncovered. Never smear on grease or butter.
+It is very important to keep the burn as clean as possible.
+Protect it from dirt, dust, and flies.
+If signs of infection appear—pus, bad smell, fever, or swollen lymph nodes—apply
+compresses of warm salt water (1 teaspoon salt to 1 liter water) 3 times a day. (If
+possible, add 2 tablespoons of bleach to the salt water.) Boil both the water and cloth
+before use. With great care, remove the dead skin and flesh. You can spread on a
+little antibiotic ointment such as Neosporin (p. 370). In severe cases, consider taking
+an antibiotic such as penicillin or ampicillin.
+
+Deep Burns (3rd degree) that destroy the skin and expose raw or charred
+flesh are always serious, as are any burns that cover large areas of the body. Take the
+person to a health center at once. In the meantime wrap the burned part with a very
+clean cloth or towel moistened with clean water.
+If it is impossible to get medical help, treat the burn as described above. If you do
+not have Vaseline, leave the burn in the open air, covering it only with a loose cotton
+cloth or sheet to protect it from dust and flies. Keep the cloth very clean and change
+it each time it gets dirty with liquid or blood from the burn. Give penicillin.
+Never put grease, fat, hides, coffee, herbs, or feces on a burn.
+Covering the burn with honey helps prevent and control infection and speed
+healing. Gently wash off the old honey and put on new at least twice a day.
+
+<!-- page 97 -->
+Special Precautions for Very Serious Burns
+Any person who has been badly burned can easily go into shock (see p. 77)
+because of combined pain, fear, and the loss of body fluids from the oozing burn.
+Comfort and reassure the burned person. Give him aspirin or acetaminophen for
+the pain and codeine if you can get it. Bathing open wounds in slightly salty water
+also helps calm pain. Put 1 teaspoon of salt for each liter of cool, boiled water.
+Give the burned person plenty of liquid. If the burned area is large (more than
+twice the size of his hand), make up the following drink:
+
+To a liter of water add:
+
+half a teaspoon of salt
+
+and half a teaspoon of
+bicarbonate of soda.
+
+Also put in 2 or 3 tablespoons of sugar or honey and some orange or lemon
+juice if possible.
+
+The burned person should drink this as often as possible, especially until he
+urinates frequently. He should try to drink 4 liters a day for a large burn, and 12 liters
+a day for a very large burn.
+It is important for persons who are badly burned to eat foods rich in protein
+(see p. 110). No type of food needs to be avoided.
+
+Burns around the Joints
+When someone is badly burned
+between the fingers, in the armpit, or at
+other joints, gauze pads with Vaseline
+on them should be put between the
+burned surfaces to prevent them from
+growing together as they heal. Also,
+fingers, arms, and legs should be
+straightened completely several times
+a day while healing. This is painful
+but helps prevent stiff scars that limit
+movement. While the burned hand is
+healing, the fingers should be kept in
+a slightly bent position.
+
+sterile
+gauze
+pads with
+Vaseline
+
+97
+
+<!-- page 98 -->
+98
+
+BROKEN BONES (FRACTURES)
+When a bone is broken, the most important thing to do is keep the bone in a
+fixed position. This prevents further damage and lets it mend.
+Before trying to move or carry a person with a broken bone, keep the bones from
+moving with splints, strips of bark, or a sleeve of cardboard. Later a plaster cast can
+be put on the limb at a health center, or perhaps you can make a ‘cast’ according to
+local tradition (see p. 14).
+Setting broken bones: If the bones seem more or less in the right position, it is
+better not to move them—this could do more harm than good.
+If the bones are far out of position and the break is recent, you can try to ‘set’ or
+straighten them before putting on cast. The sooner the bones are set, the easier it
+will be. Before setting, if possible inject or give diazepam to relax the muscles and
+calm pain (see p. 389). Or give codeine (p. 383).
+HOW TO SET A BROKEN WRIST
+Pull the hand with a slow, steady force for 5 to 10 minutes,
+increasing the force, to separate the bones.
+
+With one person still pulling the hand, have another gently
+line up and straighten the bones.
+
+WARNING: It is possible to do a lot of damage while trying to set a bone. Ideally,
+it should be done with the help of someone with experience. Do not jerk or
+force.
+HOW LONG DOES IT TAKE FOR BROKEN BONES TO HEAL?
+The worse the break or the older the person, the longer healing takes. Children’s
+bones mend rapidly. Those of old people sometimes never join. A broken arm
+should be kept in a cast for about a month, and no force put on it for another month.
+A broken leg should remain in a cast for about 2 months.
+
+<!-- page 99 -->
+BROKEN THIGH OR HIP BONE
+A broken upper leg or hip often needs special attention. It is best to splint the
+whole body like this:
+
+and to take the injured person to a health center at once.
+BROKEN NECKS AND BACKS
+If there is any chance a person’s back or neck has been broken, be very careful
+when moving him. Try not to change his position. If possible, bring a health worker
+before moving him. If you must move him, do so without bending his back or neck.
+For instructions on how to move the injured person, see the next page.
+BROKEN RIBS
+These are very painful, but almost always heal on their own. It is better not to
+splint or bind the chest. The best treatment is to take aspirin or acetaminophen
+(avoid giving aspirin to children)—and rest. To keep the lungs healthy, take 4 to 5
+deep breaths in a row, every 2 hours. Do this daily until you can breathe normally. At
+first, this will be very painful. It may take months before the pain is gone completely.
+A broken rib does not often puncture a lung. But if a rib breaks through the skin,
+or if the person coughs blood or develops breathing difficulties (other than pain),
+use antibiotics (penicillin or ampicillin) and seek medical help.
+BROKEN BONES THAT BREAK THROUGH THE SKIN (OPEN FRACTURES)
+Since the danger of infection is
+very great in these cases, it is always
+better to get help from a health worker
+or doctor in caring for the injury. Wear
+gloves or plastic bags on your hands
+and clean the wound and the exposed
+bone very gently but thoroughly with cool, boiled water. Cover with a clean cloth.
+Never put the bone back into the wound until the wound and the bone are
+absolutely clean.
+Splint the limb to prevent more injury.
+If the bone has broken the skin, use an antibiotic immediately to help prevent
+infection: penicillin, ampicillin, or tetracycline (p. 351, 353, and 356).
+CAUTION: Never rub or massage a broken limb
+or a limb that may possibly be broken.
+
+99
+
+<!-- page 100 -->
+HOW TO MOVE A BADLY INJURED PERSON
+
+With great care, lift the injured
+person without bending him
+anywhere. Take special care
+that the head and neck do not
+bend.
+
+Have another person put the
+stretcher in place.
+
+With the help of everyone,
+place the injured person
+carefully on the stretcher.
+
+tightly
+folded
+clothing
+
+If the neck is injured or broken, put tightly folded
+clothing or sandbags on each side of the head
+to keep it from moving.
+
+When carrying, try to keep the feet up, even on hills.
+
+<!-- page 101 -->
+DISLOCATIONS
+(BONES THAT HAVE COME OUT OF PLACE AT A JOINT)
+Three important points of treatment:
+♦ Try to put the bone back into place. The sooner the better!
+♦ Keep it bandaged firmly in place so it does not slip out again (about a month).
+♦ Avoid forceful use of the limb long enough for the joint to heal completely
+(2 or 3 months).
+HOW TO SET A DISLOCATED SHOULDER:
+Have the injured person lie face down on a table or other firm surface with his
+arm hanging over the side. Pull down on the arm toward the floor, using a strong,
+steady force, for 15 to 20 minutes. Then gently let go. The shoulder should ‘pop’
+back into place.
+
+Or attach something to the arm that weighs 10 to 20 lbs. (start with 10 lbs., but do
+not go higher than 20 lbs.) and leave it there for 15 to 20 minutes.
+After the shoulder is in place, bandage the arm firmly
+against the body. Keep it bandaged for a week to a month.
+To prevent the shoulder from becoming completely stiff,
+unbandage the arm for a few minutes 3 times a day and, with
+the arm hanging at the side, move it gently in narrow circles.
+Do not lift any weight with the arm for a month so the shoulder
+does not pop out of place again.
+If you cannot put the dislocated limb back in place, look for
+medical help at once. The longer you wait, the harder it will be
+to correct.
+
+<!-- page 102 -->
+STRAINS AND SPRAINS
+(BRUISING OR TEARING IN A TWISTED JOINT)
+Many times it is impossible to know whether a hand or foot is bruised, sprained, or
+broken. It helps to have an X-ray taken.
+But usually, breaks and sprains are treated more or less the same. Keep the joint
+motionless. Wrap it with something that gives firm support. Use crutches to give a
+sprained foot as much rest as possible. Serious sprains need at least 3 or 4 weeks to
+heal. Broken bones take longer.
+To relieve pain and swelling, keep the sprained part raised high. During the first
+day or two, put ice wrapped in cloth or plastic, or cold, wet cloths over the swollen
+joint for 20 to 30 minutes once every hour. This helps reduce swelling and pain. After
+24 to 48 hours (when the swelling is no longer getting worse), soak the sprain in hot
+water several times a day.
+
+For the first day soak the sprained
+joint in cold water.
+
+After 1 or 2 days use hot soaks.
+
+You can keep the twisted joint in the correct position for healing by using a
+homemade cast (see p. 14) or an elastic
+bandage.
+Wrapping the foot and ankle with
+an elastic bandage will also prevent or
+reduce swelling. Start from the toes and
+wrap upward, as shown here. Be careful
+not to make the bandage too tight, and
+remove it briefly every hour or two. Also
+take aspirin or acetaminophen.
+If the pain and swelling do not
+start to go down after 48 hours, seek
+medical help.
+CAUTION: Never rub or massage a sprain or broken bone. It does no good and
+can do more harm.
+If the foot seems very loose or ‘floppy’ or if the person has trouble moving his toes,
+look for medical help. Surgery may be needed.
+
+<!-- page 103 -->
+POISONING
+Many children die from swallowing things that are poisonous. To protect your
+children, take the following precautions:
+Keep all poisons out of
+reach of children.
+
+Never keep kerosene, gasoline, or
+other poisons in cola or soft drink
+bottles, because children
+may try to drink them.
+
+SOME COMMON POISONS TO WATCH OUT FOR:
+• rat poison
+• DDT, lindane, sheep dip, and other
+insecticides or plant poisons
+
+• poisonous leaves, seeds,
+berries, or mushrooms
+• castor beans
+
+• medicine (any kind when much is
+swallowed; take special care
+with iron pills)
+
+• matches
+
+• tincture of iodine
+
+• lye or caustic soda
+
+• bleach
+• cigarettes
+
+• salt—if too much is given to
+babies and small children
+
+• rubbing or wood alcohol
+
+• spoiled food (see p. 135)
+
+• kerosene, paint thinner,
+gasoline, petrol, lighter fluid
+
+Treatment:
+If you suspect poisoning, do the following immediately:
+♦ If the child is awake and alert, make him vomit. Put your finger in his throat or
+make him drink water with mild soap or salt in it (6 teaspoons salt to 1 cup water).
+♦ If you have it, give him a cup of activated charcoal (p. 388), or a tablespoon of
+powdered charcoal mixed into a glass of water. (For an adult, give 2 glasses of
+this mixture.)
+CAUTION: Do not make a person vomit if he has swallowed kerosene, gasoline
+(petrol), or strong acids or corrosive substances (lye), or if he is unconscious. If he
+is awake and alert, give him plenty of water or milk to dilute the poison. (For a child,
+give 1 glass of water every 15 minutes.)
+Cover the person if he feels cold, but avoid too much heat. If poisoning is severe,
+look for medical help.
+
+<!-- page 104 -->
+SNAKEBITE
+
+RATTLESNAKE—
+North America.
+Mexico, and
+Central America
+
+Note: Try to get information on the kinds of
+snakes in your area and put it on this page.
+
+When someone has been bitten by a snake, try to find out if the snake was
+poisonous or harmless. Their bite marks are different:
+
+POISONOUS
+SNAKE
+
+fang marks
+The bite of most poisonous snakes
+leaves marks of the 2 fangs (and sometimes, little
+marks made by the other teeth).
+
+NON-POISONOUS
+SNAKE
+The bite of a snake that is not
+poisonous leaves only 2 rows of teeth marks, but
+no fang marks.
+
+People often believe that certain harmless snakes are poisonous. Try to find out
+which of the snakes in your area are truly poisonous and which are not. Contrary to
+popular opinion, boa constrictors and pythons are not poisonous. Please do not kill
+non-poisonous snakes, because they do no harm. On the contrary, they kill mice and
+other pests that do lots of damage. Some even kill poisonous snakes.
+
+<!-- page 105 -->
+Treatment for poisonous snakebite:
+1. Stay quiet; do not move the bitten part. The more it is moved, the faster the
+poison will spread through the body. If the bite is on the foot, the person should not
+walk at all. Send for medical help.
+2. Remove jewelry because swelling
+can spread rapidly.
+3. Wrap the bitten area with a wide
+elastic bandage or clean cloth to slow the
+spread of poison. Keeping the arm or leg
+very still, wrap it tightly, but not so tight
+it stops the pulse at the wrist or on top
+of the foot. If you cannot feel the pulse,
+loosen the bandage a little.
+4. Wind the bandage over the hand
+or foot, and up the whole arm or leg.
+Make sure you can still feel the pulse.
+
+5. Then, put on a splint to prevent
+the limp from moving (see p. 14).
+
+6. Carry the person, on a stretcher if possible, to the nearest health center.
+If you can, also take the snake, because different snakes may require different
+antivenoms (antitoxins, see p. 387). If an antivenom is needed, leave the bandage
+on until the injection is ready, and take all precautions for ALLERGIC SHOCK (see
+p. 70). Also give tetanus antitoxin (p. 388). If there is no antivenom, remove the
+bandage.
+Have antivenoms for snakes in your area ready and
+know how to use them—before someone is bitten!
+Poisonous snakebite is dangerous. Send for medical help—but always do the
+things explained above at once.
+Most folk remedies for snakebite do little if any good (see p. 3).
+Some treatments can cause infection or make the effects of the venom worse.
+Do not:
+• cut the skin or the flesh around the bite
+• tie anything tight around the bite or the person’s body
+• put ice on or around the bite
+• shock the person with electricity
+• try to suck the blood or the venom out of the bite
+Never drink alcohol after a snakebite. It makes things worse!
+
+<!-- page 106 -->
+BITE OF THE BEADED LIZARD (GILA MONSTER)
+The bite of the beaded lizard is
+treated just like a poisonous snakebite,
+except that there are no good
+antivenoms for it. The bite can be very
+dangerous. Wash the bite area well.
+Avoid movement and keep the bite
+below the level of the heart.
+
+Southern
+U.S.A. and
+Northern
+Mexico
+
+SCORPION STING
+Some scorpions are far more poisonous than others. To
+adults, scorpion stings are rarely dangerous. Take aspirin or
+acetaminophen and if possible put ice on the sting to help
+calm the pain. For the numbness and pain that sometimes last
+weeks or months, hot compresses may be helpful (see p. 193).
+To children under 5 years old, scorpion stings can be
+dangerous, especially if the sting is on the head or body.In some
+countries scorpion antitoxin is available (p. 387). To do much good it must be injected
+within 2 hours after the child has been stung. Give acetaminophen for the pain. If the
+child stops breathing, use mouth to mouth breathing (see p. 80). Also give tetanus
+antitoxin (see p. 388). If the child who was stung is very young or has been stung
+on the main part of the body, or if you know the scorpion was of a deadly type seek
+medical help fast.
+
+BLACK WIDOW
+AND OTHER SPIDER BITES
+The majority of spider bites, including that of the
+tarantula, are painful but not dangerous. The bite of a
+few kinds of spiders—such as the ‘black widow’ and
+related species—can make an adult quite ill. They
+can be dangerous for a small child. A black widow
+bite often causes painful muscle cramps all over
+the body, and extreme pain in the stomach muscles
+which become rigid. (Sometimes this is confused
+with appendicitis!)
+Give acetaminophen or aspirin and look for medical help. The most useful medicines
+are not found in village stores. (Injection of 10% calcium gluconate, 10 ml., injected
+intravenously very slowly over a 10 minute period, helps to reduce the muscular
+spasms. Also diazepam, p. 390, may be helpful. If signs of shock develop, treat for
+allergic shock, p. 70. Injections of cortisone may be needed in children.) Also give
+tetanus antitoxin (see p. 388). A good antivenom exists but is hard to get.

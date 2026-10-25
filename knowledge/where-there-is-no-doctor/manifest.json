@@ -1,0 +1,262 @@
+[
+  {
+    "file": "01-home-cures-and-beliefs.md",
+    "title": "Home Cures and Popular Beliefs",
+    "book_pages": [
+      1,
+      16
+    ],
+    "set": "optional",
+    "words": 4816
+  },
+  {
+    "file": "02-sicknesses-often-confused.md",
+    "title": "Sicknesses That Are Often Confused",
+    "book_pages": [
+      17,
+      28
+    ],
+    "set": "core",
+    "words": 3536
+  },
+  {
+    "file": "03-examining-a-sick-person.md",
+    "title": "How to Examine a Sick Person",
+    "book_pages": [
+      29,
+      38
+    ],
+    "set": "demo",
+    "words": 3304
+  },
+  {
+    "file": "04-caring-for-a-sick-person.md",
+    "title": "How to Take Care of a Sick Person (incl. Signs of Dangerous Illness)",
+    "book_pages": [
+      39,
+      44
+    ],
+    "set": "demo",
+    "words": 2635
+  },
+  {
+    "file": "05-healing-without-medicines.md",
+    "title": "Healing Without Medicines",
+    "book_pages": [
+      45,
+      48
+    ],
+    "set": "optional",
+    "words": 1001
+  },
+  {
+    "file": "06-right-and-wrong-use-of-medicines.md",
+    "title": "Right and Wrong Use of Modern Medicines",
+    "book_pages": [
+      49,
+      54
+    ],
+    "set": "core",
+    "words": 2198
+  },
+  {
+    "file": "07-antibiotics.md",
+    "title": "Antibiotics: What They Are and How to Use Them",
+    "book_pages": [
+      55,
+      58
+    ],
+    "set": "core",
+    "words": 1629
+  },
+  {
+    "file": "08-measuring-and-giving-medicine.md",
+    "title": "How to Measure and Give Medicine",
+    "book_pages": [
+      59,
+      64
+    ],
+    "set": "core",
+    "words": 1695
+  },
+  {
+    "file": "09-injections.md",
+    "title": "Instructions and Precautions for Injections",
+    "book_pages": [
+      65,
+      74
+    ],
+    "set": "core",
+    "words": 2823
+  },
+  {
+    "file": "10-first-aid.md",
+    "title": "First Aid",
+    "book_pages": [
+      75,
+      106
+    ],
+    "set": "core",
+    "words": 9246
+  },
+  {
+    "file": "11-nutrition.md",
+    "title": "Nutrition: What to Eat to Be Healthy",
+    "book_pages": [
+      107,
+      130
+    ],
+    "set": "core",
+    "words": 9023
+  },
+  {
+    "file": "12-prevention.md",
+    "title": "Prevention: How to Avoid Many Sicknesses",
+    "book_pages": [
+      131,
+      150
+    ],
+    "set": "core",
+    "words": 6593
+  },
+  {
+    "file": "13-very-common-sicknesses.md",
+    "title": "Some Very Common Sicknesses",
+    "book_pages": [
+      151,
+      178
+    ],
+    "set": "core",
+    "words": 10259
+  },
+  {
+    "file": "14-serious-illnesses.md",
+    "title": "Serious Illnesses That Need Special Medical Attention (incl. Malaria)",
+    "book_pages": [
+      179,
+      192
+    ],
+    "set": "demo",
+    "words": 5349
+  },
+  {
+    "file": "15-skin-problems.md",
+    "title": "Skin Problems",
+    "book_pages": [
+      193,
+      216
+    ],
+    "set": "core",
+    "words": 7376
+  },
+  {
+    "file": "16-eyes.md",
+    "title": "The Eyes",
+    "book_pages": [
+      217,
+      228
+    ],
+    "set": "core",
+    "words": 4117
+  },
+  {
+    "file": "17-teeth-gums-mouth.md",
+    "title": "The Teeth, Gums, and Mouth",
+    "book_pages": [
+      229,
+      232
+    ],
+    "set": "core",
+    "words": 1339
+  },
+  {
+    "file": "18-urinary-system-and-genitals.md",
+    "title": "The Urinary System and the Genitals",
+    "book_pages": [
+      233,
+      244
+    ],
+    "set": "core",
+    "words": 4748
+  },
+  {
+    "file": "19-mothers-and-midwives.md",
+    "title": "Information for Mothers and Midwives",
+    "book_pages": [
+      245,
+      282
+    ],
+    "set": "core",
+    "words": 13491
+  },
+  {
+    "file": "20-family-planning.md",
+    "title": "Having the Number of Children You Want",
+    "book_pages": [
+      283,
+      294
+    ],
+    "set": "core",
+    "words": 4816
+  },
+  {
+    "file": "21-children.md",
+    "title": "Health and Sicknesses of Children",
+    "book_pages": [
+      295,
+      322
+    ],
+    "set": "core",
+    "words": 8479
+  },
+  {
+    "file": "22-older-people.md",
+    "title": "Health and Sicknesses of Older People",
+    "book_pages": [
+      323,
+      330
+    ],
+    "set": "core",
+    "words": 2970
+  },
+  {
+    "file": "23-medicine-kit.md",
+    "title": "The Medicine Kit",
+    "book_pages": [
+      331,
+      338
+    ],
+    "set": "optional",
+    "words": 2148
+  },
+  {
+    "file": "excluded/green-pages.md",
+    "title": "The Green Pages: Uses, Dosage, and Precautions for Medicines",
+    "book_pages": [
+      339,
+      398
+    ],
+    "set": "excluded",
+    "words": 30846
+  },
+  {
+    "file": "24-additional-information.md",
+    "title": "Additional Information (HIV, Pesticides, Abortion Complications, etc.)",
+    "book_pages": [
+      399,
+      418
+    ],
+    "set": "core",
+    "words": 7201
+  },
+  {
+    "file": "25-vocabulary.md",
+    "title": "Vocabulary: Explaining Difficult Words",
+    "book_pages": [
+      419,
+      428
+    ],
+    "set": "optional",
+    "words": 6261
+  }
+]

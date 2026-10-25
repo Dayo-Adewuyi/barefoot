@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+mcp-server/data/ledger.json
+*.tmp
+sources/
+.DS_Store
+recording-script.md

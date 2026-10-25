@@ -1,0 +1,3062 @@
+[
+  {
+    "file": "chew-1.1-the-newborn.md",
+    "cadre": "CHEW",
+    "section": "1.1",
+    "title": "The Newborn",
+    "age_group": "newborn",
+    "pages": [
+      19,
+      26
+    ],
+    "words": 3923
+  },
+  {
+    "file": "chew-1.2-newborn-without-any-complaint-the-well-child.md",
+    "cadre": "CHEW",
+    "section": "1.2",
+    "title": "Newborn Without Any Complaint The Well Child",
+    "age_group": "newborn",
+    "pages": [
+      26,
+      28
+    ],
+    "words": 1338
+  },
+  {
+    "file": "chew-1.3-newborn-emergencies.md",
+    "cadre": "CHEW",
+    "section": "1.3",
+    "title": "Newborn Emergencies",
+    "age_group": "newborn",
+    "pages": [
+      28,
+      41
+    ],
+    "words": 4413
+  },
+  {
+    "file": "chew-1.4-newborn-abnormalities.md",
+    "cadre": "CHEW",
+    "section": "1.4",
+    "title": "Newborn Abnormalities",
+    "age_group": "newborn",
+    "pages": [
+      41,
+      43
+    ],
+    "words": 987
+  },
+  {
+    "file": "chew-1.5-oral-health.md",
+    "cadre": "CHEW",
+    "section": "1.5",
+    "title": "Oral Health",
+    "age_group": "newborn",
+    "pages": [
+      43,
+      49
+    ],
+    "words": 1126
+  },
+  {
+    "file": "chew-2.1-child-s-first-visit.md",
+    "cadre": "CHEW",
+    "section": "2.1",
+    "title": "Child'S First Visit",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      49,
+      51
+    ],
+    "words": 998
+  },
+  {
+    "file": "chew-2.2-healthy-child.md",
+    "cadre": "CHEW",
+    "section": "2.2",
+    "title": "Healthy Child",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      51,
+      53
+    ],
+    "words": 785
+  },
+  {
+    "file": "chew-2.3-fever.md",
+    "cadre": "CHEW",
+    "section": "2.3",
+    "title": "Fever",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      53,
+      57
+    ],
+    "words": 1465
+  },
+  {
+    "file": "chew-2.4-convulsion.md",
+    "cadre": "CHEW",
+    "section": "2.4",
+    "title": "Convulsion",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      57,
+      59
+    ],
+    "words": 933
+  },
+  {
+    "file": "chew-2.5-cough-difficult-breathing.md",
+    "cadre": "CHEW",
+    "section": "2.5",
+    "title": "Cough/Difficult Breathing",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      59,
+      63
+    ],
+    "words": 1421
+  },
+  {
+    "file": "chew-2.6-diarrhoea.md",
+    "cadre": "CHEW",
+    "section": "2.6",
+    "title": "Diarrhoea",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      63,
+      67
+    ],
+    "words": 1587
+  },
+  {
+    "file": "chew-2.7-vomiting.md",
+    "cadre": "CHEW",
+    "section": "2.7",
+    "title": "Vomiting",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      67,
+      69
+    ],
+    "words": 899
+  },
+  {
+    "file": "chew-2.8-pallor.md",
+    "cadre": "CHEW",
+    "section": "2.8",
+    "title": "Pallor",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      69,
+      71
+    ],
+    "words": 1025
+  },
+  {
+    "file": "chew-2.9-jaundice.md",
+    "cadre": "CHEW",
+    "section": "2.9",
+    "title": "Jaundice",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      71,
+      72
+    ],
+    "words": 839
+  },
+  {
+    "file": "chew-2.10-malnutrition.md",
+    "cadre": "CHEW",
+    "section": "2.10",
+    "title": "Malnutrition",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      72,
+      75
+    ],
+    "words": 1300
+  },
+  {
+    "file": "chew-2.11-hiv-aids.md",
+    "cadre": "CHEW",
+    "section": "2.11",
+    "title": "Hiv/Aids",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      75,
+      78
+    ],
+    "words": 1189
+  },
+  {
+    "file": "chew-2.12-measles-type-rash.md",
+    "cadre": "CHEW",
+    "section": "2.12",
+    "title": "Measles-Type Rash",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      78,
+      80
+    ],
+    "words": 1133
+  },
+  {
+    "file": "chew-2.13-skin-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.13",
+    "title": "Skin Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      80,
+      83
+    ],
+    "words": 1302
+  },
+  {
+    "file": "chew-2.14-oedema.md",
+    "cadre": "CHEW",
+    "section": "2.14",
+    "title": "Oedema",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      83,
+      85
+    ],
+    "words": 986
+  },
+  {
+    "file": "chew-2.15-burns-and-scalds.md",
+    "cadre": "CHEW",
+    "section": "2.15",
+    "title": "Burns And Scalds",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      85,
+      88
+    ],
+    "words": 1175
+  },
+  {
+    "file": "chew-2.16-wounds-various-bites-sprains-and-fractures.md",
+    "cadre": "CHEW",
+    "section": "2.16",
+    "title": "Wounds,Various Bites, Sprains, And Fractures",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      88,
+      88
+    ],
+    "words": 420
+  },
+  {
+    "file": "chew-2.16.1-wounds.md",
+    "cadre": "CHEW",
+    "section": "2.16.1",
+    "title": "Wounds",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      88,
+      90
+    ],
+    "words": 927
+  },
+  {
+    "file": "chew-2.16.2-various-bites.md",
+    "cadre": "CHEW",
+    "section": "2.16.2",
+    "title": "Various Bites",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      90,
+      92
+    ],
+    "words": 939
+  },
+  {
+    "file": "chew-2.16.3-sprain-s-and-fractures.md",
+    "cadre": "CHEW",
+    "section": "2.16.3",
+    "title": "Sprain'S And Fractures",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      92,
+      94
+    ],
+    "words": 1067
+  },
+  {
+    "file": "chew-2.17-head-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.17",
+    "title": "Head Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      94,
+      96
+    ],
+    "words": 1142
+  },
+  {
+    "file": "chew-2.18-neck-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.18",
+    "title": "Neck Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      96,
+      98
+    ],
+    "words": 919
+  },
+  {
+    "file": "chew-2.19-eye-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.19",
+    "title": "Eye Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      98,
+      103
+    ],
+    "words": 1866
+  },
+  {
+    "file": "chew-2.20-ear-nose-and-throat-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.20",
+    "title": "Ear, Nose And Throat Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      103,
+      109
+    ],
+    "words": 2088
+  },
+  {
+    "file": "chew-2.21-oral-health-disorder.md",
+    "cadre": "CHEW",
+    "section": "2.21",
+    "title": "Oral Health Disorder",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      109,
+      112
+    ],
+    "words": 1318
+  },
+  {
+    "file": "chew-2.22-chest-heart-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.22",
+    "title": "Chest/Heart Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      112,
+      113
+    ],
+    "words": 804
+  },
+  {
+    "file": "chew-2.23-abdominal-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.23",
+    "title": "Abdominal Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      113,
+      115
+    ],
+    "words": 872
+  },
+  {
+    "file": "chew-2.24-hernia.md",
+    "cadre": "CHEW",
+    "section": "2.24",
+    "title": "Hernia",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      115,
+      117
+    ],
+    "words": 892
+  },
+  {
+    "file": "chew-2.25-sexual-assault-rape.md",
+    "cadre": "CHEW",
+    "section": "2.25",
+    "title": "Sexual Assault/ Rape",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      117,
+      119
+    ],
+    "words": 871
+  },
+  {
+    "file": "chew-2.26-anal-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.26",
+    "title": "Anal Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      119,
+      121
+    ],
+    "words": 836
+  },
+  {
+    "file": "chew-2.27-worm-infestation.md",
+    "cadre": "CHEW",
+    "section": "2.27",
+    "title": "Worm Infestation",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      121,
+      122
+    ],
+    "words": 905
+  },
+  {
+    "file": "chew-2.28-urinary-and-genital-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.28",
+    "title": "Urinary And Genital Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      122,
+      126
+    ],
+    "words": 1636
+  },
+  {
+    "file": "chew-2.29-arm-and-legs-disorders.md",
+    "cadre": "CHEW",
+    "section": "2.29",
+    "title": "Arm And Legs Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      126,
+      128
+    ],
+    "words": 1026
+  },
+  {
+    "file": "chew-2.30-changes-in-alertness-and-behaviour.md",
+    "cadre": "CHEW",
+    "section": "2.30",
+    "title": "Changes In Alertness And Behaviour",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      128,
+      130
+    ],
+    "words": 975
+  },
+  {
+    "file": "chew-2.31-poisoning.md",
+    "cadre": "CHEW",
+    "section": "2.31",
+    "title": "Poisoning",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      130,
+      132
+    ],
+    "words": 953
+  },
+  {
+    "file": "chew-2.32-emergency-conditions.md",
+    "cadre": "CHEW",
+    "section": "2.32",
+    "title": "Emergency Conditions",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      132,
+      134
+    ],
+    "words": 1209
+  },
+  {
+    "file": "chew-2.33-high-risk-group-orphans-and-vulnerable-children.md",
+    "cadre": "CHEW",
+    "section": "2.33",
+    "title": "High Risk Group (Orphans And Vulnerable Children)",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      134,
+      135
+    ],
+    "words": 874
+  },
+  {
+    "file": "chew-2.34-school-health-services.md",
+    "cadre": "CHEW",
+    "section": "2.34",
+    "title": "School Health Services",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      135,
+      137
+    ],
+    "words": 899
+  },
+  {
+    "file": "chew-3.1-child-s-first-visit.md",
+    "cadre": "CHEW",
+    "section": "3.1",
+    "title": "Child'S First Visit",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      137,
+      139
+    ],
+    "words": 1061
+  },
+  {
+    "file": "chew-3.2-fever.md",
+    "cadre": "CHEW",
+    "section": "3.2",
+    "title": "Fever",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      139,
+      143
+    ],
+    "words": 1610
+  },
+  {
+    "file": "chew-3.3-convulsion.md",
+    "cadre": "CHEW",
+    "section": "3.3",
+    "title": "Convulsion",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      143,
+      145
+    ],
+    "words": 871
+  },
+  {
+    "file": "chew-3.4-cough.md",
+    "cadre": "CHEW",
+    "section": "3.4",
+    "title": "Cough",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      145,
+      147
+    ],
+    "words": 1072
+  },
+  {
+    "file": "chew-3.5-diarrhoea.md",
+    "cadre": "CHEW",
+    "section": "3.5",
+    "title": "Diarrhoea",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      147,
+      149
+    ],
+    "words": 1211
+  },
+  {
+    "file": "chew-3.6-vomiting.md",
+    "cadre": "CHEW",
+    "section": "3.6",
+    "title": "Vomiting",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      149,
+      153
+    ],
+    "words": 1462
+  },
+  {
+    "file": "chew-3.8-pallor.md",
+    "cadre": "CHEW",
+    "section": "3.8",
+    "title": "Pallor",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      153,
+      155
+    ],
+    "words": 1066
+  },
+  {
+    "file": "chew-3.9-yellowish-eyes-jaundice.md",
+    "cadre": "CHEW",
+    "section": "3.9",
+    "title": "Yellowish Eyes (Jaundice)",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      155,
+      157
+    ],
+    "words": 964
+  },
+  {
+    "file": "chew-3.10-nutritional-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.10",
+    "title": "Nutritional Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      157,
+      159
+    ],
+    "words": 1154
+  },
+  {
+    "file": "chew-3.11-measles-type-rash.md",
+    "cadre": "CHEW",
+    "section": "3.11",
+    "title": "Measles-Type Rash",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      159,
+      162
+    ],
+    "words": 1273
+  },
+  {
+    "file": "chew-3.12-skin-diseases.md",
+    "cadre": "CHEW",
+    "section": "3.12",
+    "title": "Skin Diseases",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      162,
+      165
+    ],
+    "words": 1504
+  },
+  {
+    "file": "chew-3.13-oedema.md",
+    "cadre": "CHEW",
+    "section": "3.13",
+    "title": "Oedema",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      165,
+      166
+    ],
+    "words": 794
+  },
+  {
+    "file": "chew-3.14-burns-and-scalds.md",
+    "cadre": "CHEW",
+    "section": "3.14",
+    "title": "Burns And Scalds",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      166,
+      168
+    ],
+    "words": 870
+  },
+  {
+    "file": "chew-3.15-wounds-sores-ulcers-fractures-and-various.md",
+    "cadre": "CHEW",
+    "section": "3.15",
+    "title": "Wounds, Sores, Ulcers, Fractures And Various",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      168,
+      171
+    ],
+    "words": 1352
+  },
+  {
+    "file": "chew-3.16-head-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.16",
+    "title": "Head Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      171,
+      173
+    ],
+    "words": 887
+  },
+  {
+    "file": "chew-3.17-neck-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.17",
+    "title": "Neck Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      173,
+      175
+    ],
+    "words": 947
+  },
+  {
+    "file": "chew-3.18-eye-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.18",
+    "title": "Eye Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      175,
+      180
+    ],
+    "words": 2410
+  },
+  {
+    "file": "chew-3.20-oral-health-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.20",
+    "title": "Oral Health Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      180,
+      182
+    ],
+    "words": 1167
+  },
+  {
+    "file": "chew-3.21-chest-heart-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.21",
+    "title": "Chest / Heart Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      182,
+      184
+    ],
+    "words": 940
+  },
+  {
+    "file": "chew-3.22-abdominal-problems-including-hernias.md",
+    "cadre": "CHEW",
+    "section": "3.22",
+    "title": "Abdominal Problems (Including Hernias)",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      184,
+      186
+    ],
+    "words": 1069
+  },
+  {
+    "file": "chew-3.23-anal-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.23",
+    "title": "Anal Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      186,
+      188
+    ],
+    "words": 784
+  },
+  {
+    "file": "chew-3.24-worm-infestation.md",
+    "cadre": "CHEW",
+    "section": "3.24",
+    "title": "Worm Infestation",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      188,
+      189
+    ],
+    "words": 856
+  },
+  {
+    "file": "chew-3.25-urinary-and-genital-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.25",
+    "title": "Urinary And Genital Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      189,
+      192
+    ],
+    "words": 1303
+  },
+  {
+    "file": "chew-3.26-arm-and-leg-disorders.md",
+    "cadre": "CHEW",
+    "section": "3.26",
+    "title": "Arm And Leg Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      192,
+      194
+    ],
+    "words": 1021
+  },
+  {
+    "file": "chew-3.27-changes-in-alertness-and-behaviour.md",
+    "cadre": "CHEW",
+    "section": "3.27",
+    "title": "Changes In Alertness And Behaviour",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      194,
+      196
+    ],
+    "words": 924
+  },
+  {
+    "file": "chew-3.28-poisoning.md",
+    "cadre": "CHEW",
+    "section": "3.28",
+    "title": "Poisoning",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      196,
+      198
+    ],
+    "words": 860
+  },
+  {
+    "file": "chew-3.29-school-health-services.md",
+    "cadre": "CHEW",
+    "section": "3.29",
+    "title": "School Health Services",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      198,
+      200
+    ],
+    "words": 801
+  },
+  {
+    "file": "chew-3.30-sexuality-education.md",
+    "cadre": "CHEW",
+    "section": "3.30",
+    "title": "Sexuality Education",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      200,
+      207
+    ],
+    "words": 1982
+  },
+  {
+    "file": "chew-4.2-adolescents-concerns-about-puberty-male-concerns.md",
+    "cadre": "CHEW",
+    "section": "4.2",
+    "title": "Adolescents Concerns About Puberty (Male Concerns)",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      207,
+      209
+    ],
+    "words": 942
+  },
+  {
+    "file": "chew-4.3-contraceptive-choice-for-adolescents.md",
+    "cadre": "CHEW",
+    "section": "4.3",
+    "title": "Contraceptive Choice For Adolescents",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      209,
+      211
+    ],
+    "words": 1709
+  },
+  {
+    "file": "chew-4.4-sexual-dysfunctions-malfunctions.md",
+    "cadre": "CHEW",
+    "section": "4.4",
+    "title": "Sexual Dysfunctions /Malfunctions",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      211,
+      213
+    ],
+    "words": 795
+  },
+  {
+    "file": "chew-4.5-genitourinary-tract-disorders.md",
+    "cadre": "CHEW",
+    "section": "4.5",
+    "title": "Genitourinary Tract Disorders",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      213,
+      215
+    ],
+    "words": 872
+  },
+  {
+    "file": "chew-4.6-abortion.md",
+    "cadre": "CHEW",
+    "section": "4.6",
+    "title": "Abortion",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      215,
+      217
+    ],
+    "words": 756
+  },
+  {
+    "file": "chew-4.7-nutritional-disorders.md",
+    "cadre": "CHEW",
+    "section": "4.7",
+    "title": "Nutritional Disorders",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      217,
+      217
+    ],
+    "words": 356
+  },
+  {
+    "file": "chew-4.7.1-drug-and-substance-abuse.md",
+    "cadre": "CHEW",
+    "section": "4.7.1",
+    "title": "Drug And Substance Abuse",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      217,
+      219
+    ],
+    "words": 1102
+  },
+  {
+    "file": "chew-4.7.2-alcoholism.md",
+    "cadre": "CHEW",
+    "section": "4.7.2",
+    "title": "Alcoholism",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      219,
+      222
+    ],
+    "words": 1516
+  },
+  {
+    "file": "chew-4.8-mental-health-disorders.md",
+    "cadre": "CHEW",
+    "section": "4.8",
+    "title": "Mental Health Disorders",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      222,
+      224
+    ],
+    "words": 1095
+  },
+  {
+    "file": "chew-4.9-violence-and-assaultive-behaviour.md",
+    "cadre": "CHEW",
+    "section": "4.9",
+    "title": "Violence And Assaultive Behaviour",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      224,
+      226
+    ],
+    "words": 914
+  },
+  {
+    "file": "chew-4.10.1-sexually-transmitted-infections-stis-female.md",
+    "cadre": "CHEW",
+    "section": "4.10.1",
+    "title": "Sexually Transmitted Infections (Stis) (Female)",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      226,
+      228
+    ],
+    "words": 1106
+  },
+  {
+    "file": "chew-4.10.2-sexually-transmitted-infections-stis-male.md",
+    "cadre": "CHEW",
+    "section": "4.10.2",
+    "title": "Sexually Transmitted Infections (Stis) (Male)",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      228,
+      230
+    ],
+    "words": 1023
+  },
+  {
+    "file": "chew-4.10.3-hiv-aids-management-of-patient.md",
+    "cadre": "CHEW",
+    "section": "4.10.3",
+    "title": "Hiv/Aids (Management Of Patient)",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      230,
+      232
+    ],
+    "words": 974
+  },
+  {
+    "file": "chew-4.11-injuries-fractures-and-bites.md",
+    "cadre": "CHEW",
+    "section": "4.11",
+    "title": "Injuries, Fractures And Bites",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      232,
+      236
+    ],
+    "words": 1927
+  },
+  {
+    "file": "chew-4.12-neck-disorders-injuries.md",
+    "cadre": "CHEW",
+    "section": "4.12",
+    "title": "Neck Disorders /Injuries",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      236,
+      237
+    ],
+    "words": 978
+  },
+  {
+    "file": "chew-4.13-ear-nose-and-throat-disorders.md",
+    "cadre": "CHEW",
+    "section": "4.13",
+    "title": "Ear, Nose And Throat Disorders",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      237,
+      241
+    ],
+    "words": 1496
+  },
+  {
+    "file": "chew-5.1-adult-health.md",
+    "cadre": "CHEW",
+    "section": "5.1",
+    "title": "Adult Health",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      241,
+      243
+    ],
+    "words": 918
+  },
+  {
+    "file": "chew-5.2-fever.md",
+    "cadre": "CHEW",
+    "section": "5.2",
+    "title": "Fever",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      243,
+      246
+    ],
+    "words": 1463
+  },
+  {
+    "file": "chew-5.3-cough.md",
+    "cadre": "CHEW",
+    "section": "5.3",
+    "title": "Cough",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      246,
+      248
+    ],
+    "words": 1185
+  },
+  {
+    "file": "chew-5.4-difficulty-in-breathing.md",
+    "cadre": "CHEW",
+    "section": "5.4",
+    "title": "Difficulty In Breathing",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      248,
+      250
+    ],
+    "words": 916
+  },
+  {
+    "file": "chew-5.5-diarrhoea.md",
+    "cadre": "CHEW",
+    "section": "5.5",
+    "title": "Diarrhoea",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      250,
+      252
+    ],
+    "words": 1010
+  },
+  {
+    "file": "chew-5.6-vomiting.md",
+    "cadre": "CHEW",
+    "section": "5.6",
+    "title": "Vomiting",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      252,
+      254
+    ],
+    "words": 894
+  },
+  {
+    "file": "chew-5.7-body-pain.md",
+    "cadre": "CHEW",
+    "section": "5.7",
+    "title": "Body Pain",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      254,
+      256
+    ],
+    "words": 1024
+  },
+  {
+    "file": "chew-5.8-chest-pain.md",
+    "cadre": "CHEW",
+    "section": "5.8",
+    "title": "Chest Pain",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      256,
+      258
+    ],
+    "words": 1024
+  },
+  {
+    "file": "chew-5.9-headache.md",
+    "cadre": "CHEW",
+    "section": "5.9",
+    "title": "Headache",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      258,
+      260
+    ],
+    "words": 1090
+  },
+  {
+    "file": "chew-5.10-pallor.md",
+    "cadre": "CHEW",
+    "section": "5.10",
+    "title": "Pallor",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      260,
+      261
+    ],
+    "words": 865
+  },
+  {
+    "file": "chew-5.11-weight-loss.md",
+    "cadre": "CHEW",
+    "section": "5.11",
+    "title": "Weight Loss",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      261,
+      263
+    ],
+    "words": 828
+  },
+  {
+    "file": "chew-5.12-jaundice.md",
+    "cadre": "CHEW",
+    "section": "5.12",
+    "title": "Jaundice",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      263,
+      264
+    ],
+    "words": 900
+  },
+  {
+    "file": "chew-5.13-skin-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.13",
+    "title": "Skin Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      264,
+      267
+    ],
+    "words": 1421
+  },
+  {
+    "file": "chew-5.14-oedema.md",
+    "cadre": "CHEW",
+    "section": "5.14",
+    "title": "Oedema",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      267,
+      268
+    ],
+    "words": 746
+  },
+  {
+    "file": "chew-5.15-burns.md",
+    "cadre": "CHEW",
+    "section": "5.15",
+    "title": "Burns",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      268,
+      270
+    ],
+    "words": 807
+  },
+  {
+    "file": "chew-5.16-wounds-sores-ulcers-fractures-bites.md",
+    "cadre": "CHEW",
+    "section": "5.16",
+    "title": "Wounds, Sores, Ulcers, Fractures & Bites",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      270,
+      273
+    ],
+    "words": 1264
+  },
+  {
+    "file": "chew-5.17-head-injuries.md",
+    "cadre": "CHEW",
+    "section": "5.17",
+    "title": "Head Injuries",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      273,
+      274
+    ],
+    "words": 891
+  },
+  {
+    "file": "chew-5.18-neck-disorders-injuries.md",
+    "cadre": "CHEW",
+    "section": "5.18",
+    "title": "Neck Disorders/Injuries",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      274,
+      276
+    ],
+    "words": 1017
+  },
+  {
+    "file": "chew-5.19-eye-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.19",
+    "title": "Eye Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      276,
+      278
+    ],
+    "words": 1068
+  },
+  {
+    "file": "chew-5.20-ear-nose-and-throat-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.20",
+    "title": "Ear, Nose And Throat Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      278,
+      281
+    ],
+    "words": 1550
+  },
+  {
+    "file": "chew-5.21-oral-health-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.21",
+    "title": "Oral Health Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      281,
+      283
+    ],
+    "words": 1166
+  },
+  {
+    "file": "chew-5.22-respiratory-and-cardiovascular-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.22",
+    "title": "Respiratory And Cardiovascular Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      283,
+      285
+    ],
+    "words": 896
+  },
+  {
+    "file": "chew-5.23-abnormal-blood-pressure.md",
+    "cadre": "CHEW",
+    "section": "5.23",
+    "title": "Abnormal Blood Pressure",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      285,
+      288
+    ],
+    "words": 1635
+  },
+  {
+    "file": "chew-5.24-abnormal-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.24",
+    "title": "Abnormal Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      288,
+      291
+    ],
+    "words": 1293
+  },
+  {
+    "file": "chew-5.25-worm-infestation.md",
+    "cadre": "CHEW",
+    "section": "5.25",
+    "title": "Worm Infestation",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      291,
+      292
+    ],
+    "words": 837
+  },
+  {
+    "file": "chew-5.26-genito-urinary-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.26",
+    "title": "Genito Urinary Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      292,
+      294
+    ],
+    "words": 1162
+  },
+  {
+    "file": "chew-5.27-upper-and-lower-limbs-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.27",
+    "title": "Upper And Lower Limbs Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      294,
+      296
+    ],
+    "words": 988
+  },
+  {
+    "file": "chew-5.28-mental-health-disorders.md",
+    "cadre": "CHEW",
+    "section": "5.28",
+    "title": "Mental Health Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      296,
+      298
+    ],
+    "words": 1256
+  },
+  {
+    "file": "chew-5.29-poisoning.md",
+    "cadre": "CHEW",
+    "section": "5.29",
+    "title": "Poisoning",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      298,
+      300
+    ],
+    "words": 928
+  },
+  {
+    "file": "chew-5.30-management-of-hiv-aids-patients.md",
+    "cadre": "CHEW",
+    "section": "5.30",
+    "title": "Management Of Hiv/ Aids Patients",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      300,
+      302
+    ],
+    "words": 912
+  },
+  {
+    "file": "chew-5.31-sexually-transmitted-infection-sti-female.md",
+    "cadre": "CHEW",
+    "section": "5.31",
+    "title": "Sexually Transmitted Infection (Sti) (Female)",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      302,
+      305
+    ],
+    "words": 1141
+  },
+  {
+    "file": "chew-5.32-sexuallytransmitted-infection-sti-male.md",
+    "cadre": "CHEW",
+    "section": "5.32",
+    "title": "Sexuallytransmitted Infection Sti (Male)",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      305,
+      308
+    ],
+    "words": 1225
+  },
+  {
+    "file": "chew-6.1-prenatal-antenatal-care.md",
+    "cadre": "CHEW",
+    "section": "6.1",
+    "title": "Prenatal (Antenatal) Care",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      308,
+      316
+    ],
+    "words": 3685
+  },
+  {
+    "file": "chew-6.2-maternal-health-labour-and-delivery.md",
+    "cadre": "CHEW",
+    "section": "6.2",
+    "title": "Maternal Health (Labour And Delivery)",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      316,
+      322
+    ],
+    "words": 2362
+  },
+  {
+    "file": "chew-6.3-postnatal-disorders.md",
+    "cadre": "CHEW",
+    "section": "6.3",
+    "title": "Postnatal Disorders",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      322,
+      326
+    ],
+    "words": 1914
+  },
+  {
+    "file": "chew-6.4-family-planning.md",
+    "cadre": "CHEW",
+    "section": "6.4",
+    "title": "Family Planning",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      326,
+      333
+    ],
+    "words": 3249
+  },
+  {
+    "file": "chew-6.5-infertility.md",
+    "cadre": "CHEW",
+    "section": "6.5",
+    "title": "Infertility",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      333,
+      335
+    ],
+    "words": 1380
+  },
+  {
+    "file": "chew-6.6-pre-menopause.md",
+    "cadre": "CHEW",
+    "section": "6.6",
+    "title": "Pre-Menopause",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      335,
+      338
+    ],
+    "words": 1220
+  },
+  {
+    "file": "chew-7.0-the-elderly.md",
+    "cadre": "CHEW",
+    "section": "7.0",
+    "title": "The Elderly",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      338,
+      338
+    ],
+    "words": 597
+  },
+  {
+    "file": "chew-7.1-musculo-skeletal-system-disorders.md",
+    "cadre": "CHEW",
+    "section": "7.1",
+    "title": "Musculo Skeletal System Disorders",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      338,
+      341
+    ],
+    "words": 1682
+  },
+  {
+    "file": "chew-7.2-cardiovascular-system-disorders.md",
+    "cadre": "CHEW",
+    "section": "7.2",
+    "title": "Cardiovascular System Disorders",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      341,
+      344
+    ],
+    "words": 1648
+  },
+  {
+    "file": "chew-7.3-genito-urinary-disorders.md",
+    "cadre": "CHEW",
+    "section": "7.3",
+    "title": "Genito-Urinary Disorders",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      344,
+      347
+    ],
+    "words": 1482
+  },
+  {
+    "file": "chew-7.4-gastrointestinal-disorders.md",
+    "cadre": "CHEW",
+    "section": "7.4",
+    "title": "Gastrointestinal Disorders",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      347,
+      349
+    ],
+    "words": 1303
+  },
+  {
+    "file": "chew-7.5-specific-disorders-of-the-elderly.md",
+    "cadre": "CHEW",
+    "section": "7.5",
+    "title": "Specific Disorders Of The Elderly",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      349,
+      351
+    ],
+    "words": 1131
+  },
+  {
+    "file": "chew-7.6-mental-disorders-of-the-elderly.md",
+    "cadre": "CHEW",
+    "section": "7.6",
+    "title": "Mental Disorders Of The Elderly",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      351,
+      372
+    ],
+    "words": 2742
+  },
+  {
+    "file": "jchew-1.1-the-newborn.md",
+    "cadre": "JCHEW",
+    "section": "1.1",
+    "title": "The Newborn",
+    "age_group": "newborn",
+    "pages": [
+      18,
+      25
+    ],
+    "words": 3815
+  },
+  {
+    "file": "jchew-1.2-newborn-without-any-complaint-the-well-child.md",
+    "cadre": "JCHEW",
+    "section": "1.2",
+    "title": "Newborn Without Any Complaint The Well Child",
+    "age_group": "newborn",
+    "pages": [
+      25,
+      27
+    ],
+    "words": 1334
+  },
+  {
+    "file": "jchew-1.3-newborn-emergencies.md",
+    "cadre": "JCHEW",
+    "section": "1.3",
+    "title": "Newborn Emergencies",
+    "age_group": "newborn",
+    "pages": [
+      27,
+      44
+    ],
+    "words": 5027
+  },
+  {
+    "file": "jchew-1.4-newborn-abnormalities.md",
+    "cadre": "JCHEW",
+    "section": "1.4",
+    "title": "Newborn Abnormalities",
+    "age_group": "newborn",
+    "pages": [
+      44,
+      46
+    ],
+    "words": 928
+  },
+  {
+    "file": "jchew-1.5-oral-health.md",
+    "cadre": "JCHEW",
+    "section": "1.5",
+    "title": "Oral Health",
+    "age_group": "newborn",
+    "pages": [
+      46,
+      49
+    ],
+    "words": 1003
+  },
+  {
+    "file": "jchew-2.1-child-s-first-visit.md",
+    "cadre": "JCHEW",
+    "section": "2.1",
+    "title": "Child'S First Visit",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      49,
+      51
+    ],
+    "words": 1016
+  },
+  {
+    "file": "jchew-2.2-healthy-child.md",
+    "cadre": "JCHEW",
+    "section": "2.2",
+    "title": "Healthy Child",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      51,
+      53
+    ],
+    "words": 850
+  },
+  {
+    "file": "jchew-2.3-fever.md",
+    "cadre": "JCHEW",
+    "section": "2.3",
+    "title": "Fever",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      53,
+      58
+    ],
+    "words": 1775
+  },
+  {
+    "file": "jchew-2.4-convulsion.md",
+    "cadre": "JCHEW",
+    "section": "2.4",
+    "title": "Convulsion",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      58,
+      60
+    ],
+    "words": 882
+  },
+  {
+    "file": "jchew-2.5-cough-difficult-breathing.md",
+    "cadre": "JCHEW",
+    "section": "2.5",
+    "title": "Cough/Difficult Breathing",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      60,
+      62
+    ],
+    "words": 980
+  },
+  {
+    "file": "jchew-2.6-diarrhoea.md",
+    "cadre": "JCHEW",
+    "section": "2.6",
+    "title": "Diarrhoea",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      62,
+      66
+    ],
+    "words": 1491
+  },
+  {
+    "file": "jchew-2.7-vomiting.md",
+    "cadre": "JCHEW",
+    "section": "2.7",
+    "title": "Vomiting",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      66,
+      68
+    ],
+    "words": 931
+  },
+  {
+    "file": "jchew-2.8-pallor.md",
+    "cadre": "JCHEW",
+    "section": "2.8",
+    "title": "Pallor",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      68,
+      70
+    ],
+    "words": 1034
+  },
+  {
+    "file": "jchew-2.9-jaundice.md",
+    "cadre": "JCHEW",
+    "section": "2.9",
+    "title": "Jaundice",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      70,
+      75
+    ],
+    "words": 2098
+  },
+  {
+    "file": "jchew-2.11-hiv-aids.md",
+    "cadre": "JCHEW",
+    "section": "2.11",
+    "title": "Hiv/Aids",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      75,
+      77
+    ],
+    "words": 1177
+  },
+  {
+    "file": "jchew-2.12-measles-type-rash.md",
+    "cadre": "JCHEW",
+    "section": "2.12",
+    "title": "Measles-Type Rash",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      77,
+      79
+    ],
+    "words": 1135
+  },
+  {
+    "file": "jchew-2.13-skin-problems.md",
+    "cadre": "JCHEW",
+    "section": "2.13",
+    "title": "Skin Problems",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      79,
+      82
+    ],
+    "words": 1303
+  },
+  {
+    "file": "jchew-2.14-oedema.md",
+    "cadre": "JCHEW",
+    "section": "2.14",
+    "title": "Oedema",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      82,
+      84
+    ],
+    "words": 900
+  },
+  {
+    "file": "jchew-2.15-burns-and-scalds.md",
+    "cadre": "JCHEW",
+    "section": "2.15",
+    "title": "Burns And Scalds",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      84,
+      87
+    ],
+    "words": 1135
+  },
+  {
+    "file": "jchew-2.16-wounds-various-bites-sprains-and-fractures.md",
+    "cadre": "JCHEW",
+    "section": "2.16",
+    "title": "Wounds,Various Bites, Sprains, And Fractures",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      87,
+      87
+    ],
+    "words": 381
+  },
+  {
+    "file": "jchew-2.16.1-wounds.md",
+    "cadre": "JCHEW",
+    "section": "2.16.1",
+    "title": "Wounds",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      87,
+      89
+    ],
+    "words": 911
+  },
+  {
+    "file": "jchew-2.16.2-various-bites.md",
+    "cadre": "JCHEW",
+    "section": "2.16.2",
+    "title": "Various Bites",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      89,
+      91
+    ],
+    "words": 906
+  },
+  {
+    "file": "jchew-2.16.3-sprain-s-and-fractures.md",
+    "cadre": "JCHEW",
+    "section": "2.16.3",
+    "title": "Sprain'S And Fractures",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      91,
+      93
+    ],
+    "words": 973
+  },
+  {
+    "file": "jchew-2.17-head-problems.md",
+    "cadre": "JCHEW",
+    "section": "2.17",
+    "title": "Head Problems",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      93,
+      95
+    ],
+    "words": 1144
+  },
+  {
+    "file": "jchew-2.18-neck-problems.md",
+    "cadre": "JCHEW",
+    "section": "2.18",
+    "title": "Neck Problems",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      95,
+      97
+    ],
+    "words": 929
+  },
+  {
+    "file": "jchew-2.19-eye-disorders.md",
+    "cadre": "JCHEW",
+    "section": "2.19",
+    "title": "Eye Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      97,
+      102
+    ],
+    "words": 1952
+  },
+  {
+    "file": "jchew-2.20-ear-nose-and-throat-disorders.md",
+    "cadre": "JCHEW",
+    "section": "2.20",
+    "title": "Ear, Nose And Throat Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      102,
+      108
+    ],
+    "words": 2081
+  },
+  {
+    "file": "jchew-2.21-oral-health-disorder.md",
+    "cadre": "JCHEW",
+    "section": "2.21",
+    "title": "Oral Health Disorder",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      108,
+      111
+    ],
+    "words": 1275
+  },
+  {
+    "file": "jchew-2.22-chest-heart-disorders.md",
+    "cadre": "JCHEW",
+    "section": "2.22",
+    "title": "Chest/Heart Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      111,
+      112
+    ],
+    "words": 787
+  },
+  {
+    "file": "jchew-2.23-abdominal-disorders.md",
+    "cadre": "JCHEW",
+    "section": "2.23",
+    "title": "Abdominal Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      112,
+      114
+    ],
+    "words": 793
+  },
+  {
+    "file": "jchew-2.24-hernia.md",
+    "cadre": "JCHEW",
+    "section": "2.24",
+    "title": "Hernia",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      114,
+      116
+    ],
+    "words": 891
+  },
+  {
+    "file": "jchew-2.25-sexual-assault-rape.md",
+    "cadre": "JCHEW",
+    "section": "2.25",
+    "title": "Sexual Assault/ Rape",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      116,
+      118
+    ],
+    "words": 875
+  },
+  {
+    "file": "jchew-2.26-worm-infestation.md",
+    "cadre": "JCHEW",
+    "section": "2.26",
+    "title": "Worm Infestation",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      118,
+      121
+    ],
+    "words": 1330
+  },
+  {
+    "file": "jchew-2.28-arm-and-legs-disorders.md",
+    "cadre": "JCHEW",
+    "section": "2.28",
+    "title": "Arm And Legs Disorders",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      121,
+      125
+    ],
+    "words": 1637
+  },
+  {
+    "file": "jchew-2.29-changes-in-alertness-and-behaviour.md",
+    "cadre": "JCHEW",
+    "section": "2.29",
+    "title": "Changes In Alertness And Behaviour",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      125,
+      127
+    ],
+    "words": 968
+  },
+  {
+    "file": "jchew-2.30-poisoning.md",
+    "cadre": "JCHEW",
+    "section": "2.30",
+    "title": "Poisoning",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      127,
+      131
+    ],
+    "words": 1350
+  },
+  {
+    "file": "jchew-2.32-high-risk-group-orphans-and-vulnerable-children.md",
+    "cadre": "JCHEW",
+    "section": "2.32",
+    "title": "High Risk Group (Orphans And Vulnerable Children)",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      131,
+      133
+    ],
+    "words": 1201
+  },
+  {
+    "file": "jchew-2.33-school-health-services.md",
+    "cadre": "JCHEW",
+    "section": "2.33",
+    "title": "School Health Services",
+    "age_group": "early childhood, under 5 years",
+    "pages": [
+      133,
+      136
+    ],
+    "words": 1381
+  },
+  {
+    "file": "jchew-3.1-child-s-first-visit.md",
+    "cadre": "JCHEW",
+    "section": "3.1",
+    "title": "Child'S First Visit",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      136,
+      138
+    ],
+    "words": 1070
+  },
+  {
+    "file": "jchew-3.2-fever.md",
+    "cadre": "JCHEW",
+    "section": "3.2",
+    "title": "Fever",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      138,
+      141
+    ],
+    "words": 1544
+  },
+  {
+    "file": "jchew-3.3-convulsion.md",
+    "cadre": "JCHEW",
+    "section": "3.3",
+    "title": "Convulsion",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      141,
+      143
+    ],
+    "words": 852
+  },
+  {
+    "file": "jchew-3.4-cough.md",
+    "cadre": "JCHEW",
+    "section": "3.4",
+    "title": "Cough",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      143,
+      145
+    ],
+    "words": 1097
+  },
+  {
+    "file": "jchew-3.5-diarrhoea.md",
+    "cadre": "JCHEW",
+    "section": "3.5",
+    "title": "Diarrhoea",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      145,
+      147
+    ],
+    "words": 1224
+  },
+  {
+    "file": "jchew-3.6-vomiting.md",
+    "cadre": "JCHEW",
+    "section": "3.6",
+    "title": "Vomiting",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      147,
+      151
+    ],
+    "words": 1509
+  },
+  {
+    "file": "jchew-3.8-pallor.md",
+    "cadre": "JCHEW",
+    "section": "3.8",
+    "title": "Pallor",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      151,
+      153
+    ],
+    "words": 1050
+  },
+  {
+    "file": "jchew-3.9-yellowish-eyes-jaundice.md",
+    "cadre": "JCHEW",
+    "section": "3.9",
+    "title": "Yellowish Eyes (Jaundice)",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      153,
+      155
+    ],
+    "words": 974
+  },
+  {
+    "file": "jchew-3.10-nutritional-disorders.md",
+    "cadre": "JCHEW",
+    "section": "3.10",
+    "title": "Nutritional Disorders",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      155,
+      157
+    ],
+    "words": 1216
+  },
+  {
+    "file": "jchew-3.11-measles-type-rash.md",
+    "cadre": "JCHEW",
+    "section": "3.11",
+    "title": "Measles-Type Rash",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      157,
+      160
+    ],
+    "words": 1487
+  },
+  {
+    "file": "jchew-3.12-skin-diseases.md",
+    "cadre": "JCHEW",
+    "section": "3.12",
+    "title": "Skin Diseases",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      160,
+      163
+    ],
+    "words": 1510
+  },
+  {
+    "file": "jchew-3.13-oedema.md",
+    "cadre": "JCHEW",
+    "section": "3.13",
+    "title": "Oedema",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      163,
+      164
+    ],
+    "words": 790
+  },
+  {
+    "file": "jchew-3.14-burns-and-scalds.md",
+    "cadre": "JCHEW",
+    "section": "3.14",
+    "title": "Burns And Scalds",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      164,
+      166
+    ],
+    "words": 870
+  },
+  {
+    "file": "jchew-3.15-wounds-sores-ulcers-fractures-and-various.md",
+    "cadre": "JCHEW",
+    "section": "3.15",
+    "title": "Wounds, Sores, Ulcers, Fractures And Various",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      166,
+      170
+    ],
+    "words": 1385
+  },
+  {
+    "file": "jchew-3.16-head-problems.md",
+    "cadre": "JCHEW",
+    "section": "3.16",
+    "title": "Head Problems",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      170,
+      172
+    ],
+    "words": 865
+  },
+  {
+    "file": "jchew-3.17-neck-problems.md",
+    "cadre": "JCHEW",
+    "section": "3.17",
+    "title": "Neck Problems",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      172,
+      174
+    ],
+    "words": 925
+  },
+  {
+    "file": "jchew-3.18-eye-problems.md",
+    "cadre": "JCHEW",
+    "section": "3.18",
+    "title": "Eye Problems",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      174,
+      179
+    ],
+    "words": 2404
+  },
+  {
+    "file": "jchew-3.20-oral-health-problems.md",
+    "cadre": "JCHEW",
+    "section": "3.20",
+    "title": "Oral Health Problems",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      179,
+      181
+    ],
+    "words": 1171
+  },
+  {
+    "file": "jchew-3.21-chest-heart-problems.md",
+    "cadre": "JCHEW",
+    "section": "3.21",
+    "title": "Chest / Heart Problems",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      181,
+      183
+    ],
+    "words": 933
+  },
+  {
+    "file": "jchew-3.22-abdominal-problems-including-hernias.md",
+    "cadre": "JCHEW",
+    "section": "3.22",
+    "title": "Abdominal Problems (Including Hernias)",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      183,
+      185
+    ],
+    "words": 1021
+  },
+  {
+    "file": "jchew-3.23-anal-problems.md",
+    "cadre": "JCHEW",
+    "section": "3.23",
+    "title": "Anal Problems",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      185,
+      187
+    ],
+    "words": 771
+  },
+  {
+    "file": "jchew-3.24-worm-infestation.md",
+    "cadre": "JCHEW",
+    "section": "3.24",
+    "title": "Worm Infestation",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      187,
+      188
+    ],
+    "words": 890
+  },
+  {
+    "file": "jchew-3.25-urinary-and-genital-problems.md",
+    "cadre": "JCHEW",
+    "section": "3.25",
+    "title": "Urinary And Genital Problems",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      188,
+      191
+    ],
+    "words": 1343
+  },
+  {
+    "file": "jchew-3.26-arm-and-leg-problems.md",
+    "cadre": "JCHEW",
+    "section": "3.26",
+    "title": "Arm And Leg Problems",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      191,
+      193
+    ],
+    "words": 961
+  },
+  {
+    "file": "jchew-3.27-changes-in-alertness-and-behaviour.md",
+    "cadre": "JCHEW",
+    "section": "3.27",
+    "title": "Changes In Alertness And Behaviour",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      193,
+      195
+    ],
+    "words": 906
+  },
+  {
+    "file": "jchew-3.28-poisoning.md",
+    "cadre": "JCHEW",
+    "section": "3.28",
+    "title": "Poisoning",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      195,
+      197
+    ],
+    "words": 911
+  },
+  {
+    "file": "jchew-3.29-school-health-services.md",
+    "cadre": "JCHEW",
+    "section": "3.29",
+    "title": "School Health Services",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      197,
+      199
+    ],
+    "words": 861
+  },
+  {
+    "file": "jchew-3.30-sexuality-education.md",
+    "cadre": "JCHEW",
+    "section": "3.30",
+    "title": "Sexuality Education",
+    "age_group": "middle childhood, 6-12 years",
+    "pages": [
+      199,
+      205
+    ],
+    "words": 1980
+  },
+  {
+    "file": "jchew-4.2-adolescents-concerns-about-puberty-male-concerns.md",
+    "cadre": "JCHEW",
+    "section": "4.2",
+    "title": "Adolescents Concerns About Puberty (Male Concerns)",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      205,
+      207
+    ],
+    "words": 966
+  },
+  {
+    "file": "jchew-4.3-contraceptive-choice-for-adolescents.md",
+    "cadre": "JCHEW",
+    "section": "4.3",
+    "title": "Contraceptive Choice For Adolescents",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      207,
+      209
+    ],
+    "words": 711
+  },
+  {
+    "file": "jchew-4.4-sexual-dysfunctions-malfunctions.md",
+    "cadre": "JCHEW",
+    "section": "4.4",
+    "title": "Sexual Dysfunctions /Malfunctions",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      209,
+      211
+    ],
+    "words": 825
+  },
+  {
+    "file": "jchew-4.5-genitourinary-tract-problems.md",
+    "cadre": "JCHEW",
+    "section": "4.5",
+    "title": "Genitourinary Tract Problems",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      211,
+      213
+    ],
+    "words": 848
+  },
+  {
+    "file": "jchew-4.6-abortion.md",
+    "cadre": "JCHEW",
+    "section": "4.6",
+    "title": "Abortion",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      213,
+      215
+    ],
+    "words": 842
+  },
+  {
+    "file": "jchew-4.7-nutritional-disorders.md",
+    "cadre": "JCHEW",
+    "section": "4.7",
+    "title": "Nutritional Disorders",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      215,
+      215
+    ],
+    "words": 450
+  },
+  {
+    "file": "jchew-4.7.1-drug-and-substance-abuse.md",
+    "cadre": "JCHEW",
+    "section": "4.7.1",
+    "title": "Drug And Substance Abuse",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      215,
+      217
+    ],
+    "words": 1067
+  },
+  {
+    "file": "jchew-4.7.2-alcoholism.md",
+    "cadre": "JCHEW",
+    "section": "4.7.2",
+    "title": "Alcoholism",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      217,
+      220
+    ],
+    "words": 1399
+  },
+  {
+    "file": "jchew-4.8-mental-health-problems.md",
+    "cadre": "JCHEW",
+    "section": "4.8",
+    "title": "Mental Health Problems",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      220,
+      222
+    ],
+    "words": 1084
+  },
+  {
+    "file": "jchew-4.9-violence-and-assaultive-behaviour.md",
+    "cadre": "JCHEW",
+    "section": "4.9",
+    "title": "Violence And Assaultive Behaviour",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      222,
+      224
+    ],
+    "words": 936
+  },
+  {
+    "file": "jchew-4.10.1-sexually-transmitted-infections-stis-male.md",
+    "cadre": "JCHEW",
+    "section": "4.10.1",
+    "title": "Sexually Transmitted Infections (Stis) (Male)",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      224,
+      226
+    ],
+    "words": 1034
+  },
+  {
+    "file": "jchew-4.10.2-hiv-aids-management-of-patient.md",
+    "cadre": "JCHEW",
+    "section": "4.10.2",
+    "title": "Hiv/Aids (Management Of Patient)",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      226,
+      229
+    ],
+    "words": 1420
+  },
+  {
+    "file": "jchew-4.11-injuries-fractures-and-bites.md",
+    "cadre": "JCHEW",
+    "section": "4.11",
+    "title": "Injuries, Fractures And Bites",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      229,
+      233
+    ],
+    "words": 1912
+  },
+  {
+    "file": "jchew-4.12-neck-problems-injuries.md",
+    "cadre": "JCHEW",
+    "section": "4.12",
+    "title": "Neck Problems /Injuries",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      233,
+      234
+    ],
+    "words": 948
+  },
+  {
+    "file": "jchew-4.13-ear-nose-and-throat-problems.md",
+    "cadre": "JCHEW",
+    "section": "4.13",
+    "title": "Ear, Nose And Throat Problems",
+    "age_group": "adolescent, 10-19 years",
+    "pages": [
+      234,
+      238
+    ],
+    "words": 1497
+  },
+  {
+    "file": "jchew-5.1-adult-health.md",
+    "cadre": "JCHEW",
+    "section": "5.1",
+    "title": "Adult Health",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      238,
+      240
+    ],
+    "words": 953
+  },
+  {
+    "file": "jchew-5.2-fever.md",
+    "cadre": "JCHEW",
+    "section": "5.2",
+    "title": "Fever",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      240,
+      243
+    ],
+    "words": 1412
+  },
+  {
+    "file": "jchew-5.3-cough.md",
+    "cadre": "JCHEW",
+    "section": "5.3",
+    "title": "Cough",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      243,
+      245
+    ],
+    "words": 1133
+  },
+  {
+    "file": "jchew-5.4-difficulty-in-breathing.md",
+    "cadre": "JCHEW",
+    "section": "5.4",
+    "title": "Difficulty In Breathing",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      245,
+      247
+    ],
+    "words": 887
+  },
+  {
+    "file": "jchew-5.5-diarrhoea.md",
+    "cadre": "JCHEW",
+    "section": "5.5",
+    "title": "Diarrhoea",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      247,
+      249
+    ],
+    "words": 994
+  },
+  {
+    "file": "jchew-5.6-vomiting.md",
+    "cadre": "JCHEW",
+    "section": "5.6",
+    "title": "Vomiting",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      249,
+      251
+    ],
+    "words": 888
+  },
+  {
+    "file": "jchew-5.7-body-pain.md",
+    "cadre": "JCHEW",
+    "section": "5.7",
+    "title": "Body Pain",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      251,
+      253
+    ],
+    "words": 1018
+  },
+  {
+    "file": "jchew-5.8-chest-pain.md",
+    "cadre": "JCHEW",
+    "section": "5.8",
+    "title": "Chest Pain",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      253,
+      255
+    ],
+    "words": 989
+  },
+  {
+    "file": "jchew-5.9-headache.md",
+    "cadre": "JCHEW",
+    "section": "5.9",
+    "title": "Headache",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      255,
+      257
+    ],
+    "words": 1053
+  },
+  {
+    "file": "jchew-5.10-pallor.md",
+    "cadre": "JCHEW",
+    "section": "5.10",
+    "title": "Pallor",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      257,
+      258
+    ],
+    "words": 847
+  },
+  {
+    "file": "jchew-5.11-weight-loss.md",
+    "cadre": "JCHEW",
+    "section": "5.11",
+    "title": "Weight Loss",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      258,
+      260
+    ],
+    "words": 776
+  },
+  {
+    "file": "jchew-5.12-jaundice.md",
+    "cadre": "JCHEW",
+    "section": "5.12",
+    "title": "Jaundice",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      260,
+      261
+    ],
+    "words": 874
+  },
+  {
+    "file": "jchew-5.13-skin-disorders.md",
+    "cadre": "JCHEW",
+    "section": "5.13",
+    "title": "Skin Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      261,
+      264
+    ],
+    "words": 1366
+  },
+  {
+    "file": "jchew-5.14-oedema.md",
+    "cadre": "JCHEW",
+    "section": "5.14",
+    "title": "Oedema",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      264,
+      265
+    ],
+    "words": 715
+  },
+  {
+    "file": "jchew-5.15-burns.md",
+    "cadre": "JCHEW",
+    "section": "5.15",
+    "title": "Burns",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      265,
+      267
+    ],
+    "words": 783
+  },
+  {
+    "file": "jchew-5.16-wounds-sores-ulcers-fractures-bites.md",
+    "cadre": "JCHEW",
+    "section": "5.16",
+    "title": "Wounds, Sores, Ulcers, Fractures & Bites",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      267,
+      271
+    ],
+    "words": 1679
+  },
+  {
+    "file": "jchew-5.18-neck-disorders-injuries.md",
+    "cadre": "JCHEW",
+    "section": "5.18",
+    "title": "Neck Disorders/Injuries",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      271,
+      273
+    ],
+    "words": 976
+  },
+  {
+    "file": "jchew-5.19-eye-disorders.md",
+    "cadre": "JCHEW",
+    "section": "5.19",
+    "title": "Eye Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      273,
+      275
+    ],
+    "words": 1044
+  },
+  {
+    "file": "jchew-5.20-ear-nose-and-throat-disorders.md",
+    "cadre": "JCHEW",
+    "section": "5.20",
+    "title": "Ear, Nose And Throat Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      275,
+      278
+    ],
+    "words": 1499
+  },
+  {
+    "file": "jchew-5.21-oral-health-disorders.md",
+    "cadre": "JCHEW",
+    "section": "5.21",
+    "title": "Oral Health Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      278,
+      280
+    ],
+    "words": 1047
+  },
+  {
+    "file": "jchew-5.22-respiratory-and-cardiovascular-disorders.md",
+    "cadre": "JCHEW",
+    "section": "5.22",
+    "title": "Respiratory And Cardiovascular Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      280,
+      282
+    ],
+    "words": 1250
+  },
+  {
+    "file": "jchew-5.23-abnormal-blood-pressure.md",
+    "cadre": "JCHEW",
+    "section": "5.23",
+    "title": "Abnormal Blood Pressure",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      282,
+      290
+    ],
+    "words": 3354
+  },
+  {
+    "file": "jchew-5.25-worm-infestation.md",
+    "cadre": "JCHEW",
+    "section": "5.25",
+    "title": "Worm Infestation",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      290,
+      291
+    ],
+    "words": 811
+  },
+  {
+    "file": "jchew-5.26-genito-urinary-disorders.md",
+    "cadre": "JCHEW",
+    "section": "5.26",
+    "title": "Genito Urinary Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      291,
+      293
+    ],
+    "words": 1109
+  },
+  {
+    "file": "jchew-5.27-upper-and-lower-limbs-disorders.md",
+    "cadre": "JCHEW",
+    "section": "5.27",
+    "title": "Upper And Lower Limbs Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      293,
+      295
+    ],
+    "words": 971
+  },
+  {
+    "file": "jchew-5.28-mental-health-disorders.md",
+    "cadre": "JCHEW",
+    "section": "5.28",
+    "title": "Mental Health Disorders",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      295,
+      297
+    ],
+    "words": 1194
+  },
+  {
+    "file": "jchew-5.29-poisoning.md",
+    "cadre": "JCHEW",
+    "section": "5.29",
+    "title": "Poisoning",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      297,
+      299
+    ],
+    "words": 898
+  },
+  {
+    "file": "jchew-5.30-management-of-hiv-aids-patients.md",
+    "cadre": "JCHEW",
+    "section": "5.30",
+    "title": "Management Of Hiv/ Aids Patients",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      299,
+      301
+    ],
+    "words": 867
+  },
+  {
+    "file": "jchew-5.31-sexually-transmitted-infection-sti-female.md",
+    "cadre": "JCHEW",
+    "section": "5.31",
+    "title": "Sexually Transmitted Infection (Sti) (Female)",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      301,
+      304
+    ],
+    "words": 1095
+  },
+  {
+    "file": "jchew-5.32-sexuallytransmitted-infection-sti-male.md",
+    "cadre": "JCHEW",
+    "section": "5.32",
+    "title": "Sexuallytransmitted Infection Sti (Male)",
+    "age_group": "adult, 18-59 years",
+    "pages": [
+      304,
+      307
+    ],
+    "words": 1213
+  },
+  {
+    "file": "jchew-6.1-prenatal-antenatal-care.md",
+    "cadre": "JCHEW",
+    "section": "6.1",
+    "title": "Prenatal (Antenatal) Care",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      307,
+      315
+    ],
+    "words": 3506
+  },
+  {
+    "file": "jchew-6.2-maternal-health-labour-and-delivery.md",
+    "cadre": "JCHEW",
+    "section": "6.2",
+    "title": "Maternal Health (Labour And Delivery)",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      315,
+      321
+    ],
+    "words": 2310
+  },
+  {
+    "file": "jchew-6.3-postnatal-disorders.md",
+    "cadre": "JCHEW",
+    "section": "6.3",
+    "title": "Postnatal Disorders",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      321,
+      325
+    ],
+    "words": 1781
+  },
+  {
+    "file": "jchew-6.4-family-planning.md",
+    "cadre": "JCHEW",
+    "section": "6.4",
+    "title": "Family Planning",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      325,
+      332
+    ],
+    "words": 3020
+  },
+  {
+    "file": "jchew-6.5-infertility.md",
+    "cadre": "JCHEW",
+    "section": "6.5",
+    "title": "Infertility",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      332,
+      334
+    ],
+    "words": 1292
+  },
+  {
+    "file": "jchew-6.6-pre-menopause.md",
+    "cadre": "JCHEW",
+    "section": "6.6",
+    "title": "Pre-Menopause",
+    "age_group": "women: pregnancy, birth, family planning",
+    "pages": [
+      334,
+      337
+    ],
+    "words": 1055
+  },
+  {
+    "file": "jchew-7.0-the-gerontals.md",
+    "cadre": "JCHEW",
+    "section": "7.0",
+    "title": "The Gerontals",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      337,
+      337
+    ],
+    "words": 470
+  },
+  {
+    "file": "jchew-7.1-musculoskeletal-system-disorders.md",
+    "cadre": "JCHEW",
+    "section": "7.1",
+    "title": "Musculoskeletal System Disorders",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      337,
+      339
+    ],
+    "words": 1223
+  },
+  {
+    "file": "jchew-7.2-cardiovascular-system-disorders.md",
+    "cadre": "JCHEW",
+    "section": "7.2",
+    "title": "Cardiovascular System Disorders",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      339,
+      341
+    ],
+    "words": 1126
+  },
+  {
+    "file": "jchew-7.3-genito-urinary-disorders.md",
+    "cadre": "JCHEW",
+    "section": "7.3",
+    "title": "Genito-Urinary Disorders",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      341,
+      343
+    ],
+    "words": 1234
+  },
+  {
+    "file": "jchew-7.4-gastrointestinal-disorders.md",
+    "cadre": "JCHEW",
+    "section": "7.4",
+    "title": "Gastrointestinal Disorders",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      343,
+      346
+    ],
+    "words": 1379
+  },
+  {
+    "file": "jchew-7.5-specific-disorders-of-the-gerontals.md",
+    "cadre": "JCHEW",
+    "section": "7.5",
+    "title": "Specific Disorders Of The Gerontals",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      346,
+      348
+    ],
+    "words": 1092
+  },
+  {
+    "file": "jchew-7.6-mental-disorders-of-the-gerontals.md",
+    "cadre": "JCHEW",
+    "section": "7.6",
+    "title": "Mental Disorders Of The Gerontals",
+    "age_group": "elderly, 60 years and over",
+    "pages": [
+      348,
+      367
+    ],
+    "words": 1750
+  }
+]

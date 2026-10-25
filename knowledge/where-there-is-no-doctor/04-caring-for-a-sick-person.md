@@ -1,0 +1,274 @@
+---
+source: "Where There Is No Doctor (Hesperian Foundation, revised 1992, 2010 printing)"
+chapter: "How to Take Care of a Sick Person (incl. Signs of Dangerous Illness)"
+book_pages: "39-44"
+set: "demo"
+precedence: "Current Nigerian national guidelines override this text. Never use it to choose a medicine or dose."
+---
+
+# How to Take Care of a Sick Person (incl. Signs of Dangerous Illness)
+
+> Source: *Where There Is No Doctor*, David Werner et al., Hesperian Foundation. Book pages 39-44.
+
+<!-- page 39 -->
+39
+
+How to Take Care
+of a Sick Person
+
+4
+
+CHAPTER
+
+Sickness weakens the body. To gain strength and get well quickly, special care is
+needed.
+The care a sick person receives is frequently
+the most important part of his treatment.
+Medicines are often not necessary. But good care is always important. The
+following are the basis of good care:
+
+1. The Comfort of the Sick Person
+A person who is sick should
+rest in a quiet, comfortable place
+with plenty of fresh air and light. He
+should keep from getting too hot or
+cold. If the air is cold or the person
+is chilled, cover him with a sheet or
+blanket. But if the weather is hot or
+the person has a fever, do not cover
+him at all (see p. 75).
+
+2. Liquids
+In nearly every sickness, especially when there is
+fever or diarrhea, the sick person should drink plenty
+of liquids: water, tea, juices, broths, etc.
+
+3. Personal
+Cleanliness
+It is important to keep the sick
+person clean. He should be bathed
+every day. If he is too sick to get out of
+bed, wash him with a sponge or cloth
+and lukewarm water. His clothes,
+sheets, and covers must also be
+kept clean. Take care to keep
+crumbs and bits of food out of the
+bed.
+
+Lukewarm
+water
+
+A SICK PERSON SHOULD
+BE BATHED EACH DAY
+
+<!-- page 40 -->
+40
+
+4. Good Food
+If the sick person feels like eating, let him. Most
+sicknesses do not require special diets.
+A sick person should drink plenty of liquids and
+eat a lot of nourishing food (see Chapter 11).
+If the person is very weak, give him as much
+nourishing food as he can eat, many times a day. If
+necessary, mash the foods, or make them into soups
+or juices.
+Energy foods are especially important—for
+example, porridges of rice, wheat, oatmeal, potato, or
+cassava. Adding a little sugar and vegetable oil will
+increase the energy. Also encourage the sick person
+to drink plenty of sweetened drinks, especially if he
+will not eat much.
+A few problems do require special diets. These are explained on the following pages:
+anemia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p. 124
+stomach ulcers and heartburn. . . . . . . . . . . . . . . . . . . . . p. 128
+appendicitis, gut obstruction, acute abdomen
+(in these cases take no food at all) . . . . . p. 93
+diabetes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p. 127
+heart problems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p. 325
+gallbladder problems. . . . . . . . . . . . . . . . . . . . . . . . . . . . p. 329
+high blood pressure. . . . . . . . . . . . . . . . . . . . . . . . . . . . . p. 125
+
+SPECIAL CARE FOR A PERSON
+WHO IS VERY ILL
+1. Liquids
+It is extremely important that a very sick person drink enough liquid. If he only can
+drink a little at a time, give him small amounts often. If he can barely swallow, give him
+sips every 5 or 10 minutes.
+Measure the amount of liquids the person drinks each day. An adult needs to drink
+2 liters or more every day and should urinate at least a cup (60 cc.) of urine 3 or
+4 times daily. If the person is not drinking or urinating enough, or if he begins to
+show signs of dehydration (p. 151), encourage him to drink more. He should drink
+nutritious liquids, usually with a little salt added. If he will not drink these, give him a
+Rehydration Drink (see p. 152). If he cannot drink enough of this, and develops signs
+of dehydration, a health worker may be able to give him intravenous solution. But the
+need for this can usually be avoided if the person is urged to take small sips often.
+
+<!-- page 41 -->
+2. Food
+If the person is too sick to eat solid foods, give her soups, milk, juices, broths,
+and other nutritious liquids (see Chapter 11). A porridge of cornmeal, oatmeal, or
+rice is also good, but should be given together with body-building foods. Soups can
+be made with egg, beans, or well-chopped meat, fish, or chicken. If the person can
+eat only a little at a time, she should eat several small meals each day.
+
+3. Cleanliness
+Personal cleanliness is very important for a seriously ill person. She should be
+bathed every day with warm water.
+Change the bed clothes daily and each time they become dirty. Soiled or
+bloodstained clothes, bedding, and towels of a person with an infectious disease
+should be handled with care. To kill any viruses or germs, wash these in hot soapy
+water, or add some chlorine bleach.
+
+4. Changing Position in Bed
+A person who is very weak and cannot turn over alone should be helped to
+change position in bed many times each day. This helps prevent bed sores (see
+p. 214).
+A child who is sick for a long time should be held often on her mother’s lap.
+Frequent changing of the person’s position also helps to prevent pneumonia, a
+constant danger for anyone who is very weak or ill and must stay in bed for a long
+time. If the person has a fever, begins to cough, and breathes with fast, shallow
+breaths, she probably has pneumonia (see p. 171).
+
+5. Watching for Changes
+You should watch for any change in the sick person’s condition that may tell you
+whether he is getting better or worse. Keep a record of his ‘vital signs’. Write down
+the following facts 4 times a day:
+temperature
+(how many degrees)
+
+Also write down the amount of liquids the person drinks and
+pulse
+(beats per minute)
+
+breathing
+(breaths per minute)
+
+how many times a day he urinates and has a bowel movement. Save this information
+for the health worker or doctor.
+It is very important to look for signs that warn you that the person’s sickness is
+serious or dangerous. A list of Signs of Dangerous Illness is on the next page. If
+the person shows any of these signs, seek medical help immediately.
+
+41
+
+<!-- page 42 -->
+42
+
+Where There Is No Doctor 2009
+
+SIGNS OF DANGEROUS ILLNESS
+A person who has one or more of the following signs
+is probably too sick to be treated at home without
+skilled medical help. His life may be in danger. Seek
+medical help as soon as possible. Until help comes,
+follow the instructions on the pages indicated.
+page
+1. Loss of large amounts of blood from anywhere in the body. . . . . . . 82, 264, 281
+2. Coughing up blood. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
+3. Marked blueness of lips and nails (if it is new). . . . . . . . . . . . . . . . . . . . . . . . . 30
+4. Great difficulty in breathing; does not improve with rest. . . . . . . . . . . . . 167, 325
+5. The person cannot be wakened (coma). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+6. The person is so weak he faints when he stands up . . . . . . . . . . . . . . . . . . . 325
+7. A day or more without being able to urinate. . . . . . . . . . . . . . . . . . . . . . . . . . 234
+8. A day or more without being able to drink any liquids . . . . . . . . . . . . . . . . . . 151
+9. Heavy vomiting or severe diarrhea that lasts for more than one day
+or more than a few hours in babies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
+10. Black stools like tar, or vomit with blood or feces. . . . . . . . . . . . . . . . . . . . . . 128
+11. Strong, continuous stomach pains with vomiting in a person who
+does not have diarrhea or cannot have a bowel movement . . . . . . . . . . . . . . 93
+12. Any strong continuous pain that lasts for more than 3 days. . . . . . . . . . . 29 to 38
+13. Stiff neck with arched back, with or without a stiff jaw . . . . . . . . . . . . . . 182, 185
+14. More than one fit (convulsions)
+in someone with fever or serious illness. . . . . . . . . . . . . . . . . . . . . . . . . . 76, 185
+15. High fever (above 39° C) that cannot be
+brought down or that lasts more than 4 or 5 days . . . . . . . . . . . . . . . . . . . . . . 75
+16. Weight loss over an extended time. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 400
+17. Blood in the urine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146, 234
+18. Sores that keep growing and do not go away with treatment. . . . . . . . . 191, 196,
+211, 212
+19. A lump in any part of the body that keeps getting bigger . . . . . . . . . . . 196, 280
+20. Problems with pregnancy and childbirth:
+any bleeding during pregnancy . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249, 281
+swollen face and trouble seeing in the last months . . . . . . . . . . . . . . . . . 249
+long delay once the waters have broken and labor has begun. . . . . . . . 267
+severe bleeding. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 264
+
+<!-- page 43 -->
+WHEN AND HOW TO LOOK FOR MEDICAL HELP
+Seek medical help at the first sign of a dangerous illness. Do not wait until the
+person is so sick that it becomes difficult or impossible to take him to a health center
+or hospital.
+If a sick or injured person’s condition could be made
+worse by the difficulties in moving him to a health center,
+try to bring a health worker to the person. But in
+an emergency when very special attention or
+an operation may be needed (for example,
+appendicitis), do not wait for the health
+worker. Take the person to the health
+center or the hospital at once.
+When you need to carry a person
+on a stretcher, make sure he is as
+comfortable as possible and cannot
+fall out. If he has any broken bones,
+splint them before moving him (see
+p. 99). If the sun is very strong, rig
+a sheet over the stretcher to give
+shade yet allow fresh air to pass
+underneath
+
+WHAT TO TELL THE HEALTH WORKER
+For a health worker or doctor to recommend treatment or prescribe medicine
+wisely, she should see the sick person. If the sick person cannot be moved, have
+the health worker come to him. If this is not possible, send a responsible person who
+knows the details of the illness. Never send a small child or a fool.
+Before sending for medical help, examine the sick person carefully and
+completely. Then write down the details of his disease and general condition (see
+Chapter 3).
+On the next page is a form on which you can make a PATIENT REPORT. Several
+copies of this form are at the end of this book. Tear out one of these forms and
+carefully complete the report, giving all the details you can.
+
+When you send someone for medical help,
+always send a completed information form with him.
+
+43
+
+<!-- page 44 -->
+44
+
+PATIENT REPORT
+TO USE WHEN SENDING FOR MEDICAL HELP
+
+Name of the sick person:_ ________________________________Age:_ _________________
+Male_ ___________ Female___________ Where is he (she)?_ __________________________
+What is the main sickness or problem right now?___________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+When did it begin?_____________________________________________________________
+How did it begin?________________________________________
+Has the person had the same problem before?______________When?_ _______________
+Is there fever?_____________________ How high?_____________°
+When and for how long?______________________________________________________
+Pain?____________ Where?_ _________ What kind?__________________________________
+What is wrong or different from normal in any of the following?
+Skin:___________ Ears:___________________________________________________
+Eyes:_ __________ Mouth and throat:________________________________________
+Genitals:_ _____________________________________________________________
+Urine: Much or little?_______________ Color?_ _______________Trouble urinating?_______
+Describe:________ Times in 24 hours:_______________________Times at night:_ ________
+Stools: Color?____ Blood or mucus?________________________Diarrhea?_______________
+Number of times a day:_____________ Cramps?______________Dehydration?___________
+Mild or severe?____________________ Worms?_______________What kind?______________
+Breathing: Breaths per minute:______ Deep, shallow, or normal?_____________________
+Difficulty breathing (describe):___________________________________________________
+Cough (describe):_ ____________________________________________________________
+Wheezing? _ _____ Mucus?__________ With blood?__________________________________
+Does the person have any of the SIGNS OF DANGEROUS ILLNESS listed on
+page 42?_ ________________________ Which? (give details)_ ________________________
+Other signs:
+Is the person taking medicine?_ _____ What?_______________________________________
+Has the person ever used medicine that has caused a rash, hives (or bumps)_________
+with itching, or other allergic reactions?_____________________What?_________________
+The state of the sick person is: Not very serious:_____________Serious:_ ______________
+Very serious:_ ___________________________________________

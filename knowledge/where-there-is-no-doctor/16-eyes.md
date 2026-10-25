@@ -1,0 +1,574 @@
+---
+source: "Where There Is No Doctor (Hesperian Foundation, revised 1992, 2010 printing)"
+chapter: "The Eyes"
+book_pages: "217-228"
+set: "core"
+precedence: "Current Nigerian national guidelines override this text. Never use it to choose a medicine or dose."
+---
+
+# The Eyes
+
+> Source: *Where There Is No Doctor*, David Werner et al., Hesperian Foundation. Book pages 217-228.
+
+<!-- page 217 -->
+217
+
+16
+CHAPTER
+
+The Eyes
+tear gland
+
+The conjunctiva is
+the thin layer that
+covers the white of
+the eye.
+
+pupil
+
+iris
+The cornea is the
+clear or transparent
+layer that covers the
+iris and the pupil.
+
+tear tube
+from eye
+to nose
+
+DANGER SIGNS
+The eyes are delicate and need good care. Get medical help fast when any of
+the following danger signs occurs:
+1. Any injury that cuts or ruptures (goes through) the eyeball.
+2. Painful, grayish spot on the cornea, with redness around the cornea
+(corneal ulcer).
+3. Great pain inside the eye (possibly iritis or glaucoma).
+4. A big difference in the size of the pupils when there is pain in the eye or the head.
+A big difference in the size of the
+pupils may come from brain damage,
+stroke, injury to the eye, glaucoma, or
+iritis. (A small difference is normal in
+some people.)
+
+5. Blood behind the cornea inside the eyeball
+(see p. 225)
+6. If vision begins to fail in one or both eyes.
+7. A white glow or reflection in the pupil. This could be a sign of cancer
+(retinoblastoma) or a cataract (see p. 225).
+8. Any eye infection or inflammation that does not get better after 5 or 6 days
+of treatment with an antibiotic eye ointment.
+
+<!-- page 218 -->
+INJURIES TO THE EYE
+All injuries to the eyeball must be considered dangerous, for they may cause
+blindness.
+Even small cuts on the cornea (the transparent layer covering the pupil and iris) may
+get infected and harm the vision if not cared for correctly.
+If a wound to the eyeball is so deep that it reaches the black layer beneath the outer
+white layer, this is especially dangerous.
+If a blunt injury (as with a fist) causes the eyeball to fill with blood, the eye is in
+danger (see p. 225). Danger is especially great if pain suddenly gets much worse after
+a few days, for this is probably acute glaucoma (p. 222).
+Treatment:
+♦ If the person still sees well with the injured eye,
+put an antibiotic eye ointment (p. 378) in the eye
+and cover it with a soft, thick bandage. If the eye
+is not better in a day or two, get medical help.
+♦ If the person cannot see well with the injured eye,
+if the wound is deep, or if there is blood inside
+the eye behind the cornea (p. 225), cover the eye
+with a clean bandage and go for medical help at
+once. Do not press on the eye.
+♦ Do not try to remove thorns or splinters that are
+tightly stuck in the eyeball. Get medical help.
+
+HOW TO REMOVE A SPECK OF DIRT FROM THE EYE
+Have the person close her eyes and look to the left, the right, up and down. Then,
+while you hold her eye open, have her look up and then down. This will make the eye
+produce more tears and the dirt often comes out by itself.
+Or you can try to remove the bit of dirt or sand by flooding the eye with clean water
+(p. 219) or by using the corner of a clean cloth or some moist cotton. If the particle of
+dirt is under the upper lid, look for it by turning the lid up over a thin stick. The person
+should look down while you do this:
+
+The particle is often found in
+the small groove near the edge
+of the lid. Remove it with the
+corner of a clean cloth.
+
+If you cannot get the particle out easily, use an antibiotic eye ointment, cover the eye
+with a bandage, and go for medical help.
+
+<!-- page 219 -->
+CHEMICAL BURNS OF THE EYE
+Battery acid, lye, gasoline, or a pesticide that gets into the eye
+can be dangerous. Hold open the eye. Immediately flood the
+eye with clean, cool water. Keep flooding for 30 minutes, or
+until it stops hurting. Do not let the water get into the other eye.
+
+RED, PAINFUL EYES—DIFFERENT CAUSES
+Many different problems cause red, painful eyes. Correct treatment often
+depends on finding the cause, so be sure to check carefully for signs of each
+possibility. This chart may help you find the cause:
+foreign matter (bit of dirt, etc.)
+in the eye (p. 218)
+
+usually affects one eye only;
+redness and pain variable
+
+burns or harmful liquids
+(p. 219)
+
+one or both eyes;
+redness and pain variable
+
+‘pink eye’ (conjunctivitis, p. 219)
+
+usually both eyes (may start
+or be worse in one)
+
+hay fever (allergic conjunctivitis,
+p. 165)
+trachoma (p. 220)
+
+usually reddest
+at outer edge
+
+measles (p. 311)
+
+‘burning’ pain, usually mild
+
+acute glaucoma (p. 222)
+
+usually one eye only;
+reddest
+next to
+the cornea
+pain often great
+
+iritis (p. 221)
+scratch or ulcer on the cornea
+(p. 224)
+
+‘PINK EYE’ (CONJUNCTIVITIS)
+This infection causes redness, pus, and mild ‘burning’ in one or both eyes. Lids
+often stick together after sleep. It is especially common in children.
+Treatment:
+First clean pus from the eyes with a
+clean cloth moistened with boiled water.
+Then put in antibiotic eye ointment
+(p. 378). Pull down the lower lid and put
+a little bit of ointment inside, like this:
+Putting ointment outside the eye does
+no good.
+
+EYE
+NT
+OINTME
+
+CAUTION: Do
+not touch the tube
+against the eye.
+
+Prevention:
+Most conjunctivitis is very contagious. The infection is easily spread from one
+person to another. Do not let a child with pink eye play or sleep with others, or use
+the same towel. Wash hands after touching eyes.
+
+<!-- page 220 -->
+TRACHOMA
+Trachoma is a chronic infection that slowly gets worse. It may last for months or
+many years. If not treated early, it sometimes causes blindness. It is spread by touch or
+by flies, and is most common where people live in poor, crowded conditions.
+Signs:
+• Trachoma begins with red, watery eyes, like
+ordinary conjunctivitis.
+• After a month or more, small, pinkish gray
+lumps, called follicles, form inside the upper
+eyelids. To see these, turn back the lid as
+shown on p. 218.
+• The white of the eye is a little red.
+• After a few months, if you look very carefully,
+or with a magnifying glass, you may see that
+the top edge of the cornea looks grayish,
+because it has many tiny new blood vessels
+in it (pannus).
+• The combination of both follicles and pannus
+is almost certainly trachoma.
+• After several years, the follicles begin to
+disappear, leaving whitish scars.
+These scars make the eyelids thick
+and may keep them from opening
+or closing all the way.
+
+Or the scarring may pull the eyelashes
+down into the eye, scratching the
+cornea and causing blindness.
+
+Treatment of trachoma:
+Put 1% tetracycline or erythromycin eye ointment (p. 378) inside the eye 3 times
+each day, or 3% tetracycline or erythromycin eye ointment 1 time each day. Do this for
+30 days. For a complete cure, also take tetracycline (p. 355), erythromycin (p. 354) or a
+sulfonamide (p. 357) by mouth for 2 to 3 weeks.
+Prevention:
+Early and complete treatment of trachoma helps prevent its spread to others. All
+persons living with someone who has trachoma, especially children, should have
+their eyes examined often and if signs appear, they should be treated early. Washing
+the face every day can help prevent trachoma. Also, it is very important to follow the
+Guidelines of Cleanliness, explained in Chapter 12.
+Cleanliness helps prevent trachoma.
+
+<!-- page 221 -->
+INFECTED EYES IN NEWBORN BABIES
+(NEONATAL CONJUNCTIVITIS)
+If a mother has chlamydia or gonorrhea (see p. 236), she
+may pass these infections to her baby at birth. The infection gets
+into the baby’s eyes and can cause blindness and other health
+problems. If the baby’s eyes get red, swell, and have a lot of pus
+in them within the first month, she may have one or both of these
+infections. It is important to provide treatment immediately.
+Treatment for gonorrhea:
+♦ Inject 125 mg. ceftriaxone in the thigh muscle, 1 time only (see p. 359).
+Treatment for chlamydia:
+♦ Give 30 mg. erythromycin syrup by mouth, 4 times a day for 14 days
+(see p. 359).
+If you cannot test to find out which disease is causing the infection, give
+medicines for both. The baby’s eyes should also be cleaned and treated with the
+medicines listed below.
+Prevention:
+Many women have chlamydia or gonorrhea and do not know they are infected.
+Unless the mother has a test to show that she does not have these infections, give
+every baby medicine in the eyes to prevent blindness (see p. 378). To prevent
+blindness:
+• put a line of erythromycin 0.5% to 1% ointment in each of the baby’s eyes
+within the first 2 hours after birth. or
+• put a line of tetracycline 1% eye ointment in each of the baby’s eyes within the
+first 2 hours after birth. or
+• put 1 drop of 2.5% solution of povidone-iodine in each of the baby’s eyes
+within the first 2 hours after birth.
+In some places, people use a 1% solution of silver nitrate (or other silver
+eye medicines) in the baby’s eyes. These medicines stop gonorrhea blindness, but
+they do not stop the blindness that comes from chlamydia. Silver nitrate also irritates
+the baby’s eyes for several days. If you can get erythromycin or tetracycline eye
+medicine, use one of them. But use silver nitrate if that is all you have.
+If a baby develops gonorrhea or chlamydia of the eyes, both parents should be
+treated for these infections (p. 237 and 359).
+
+IRITIS (INFLAMMATION OF THE IRIS)
+NORMAL EYE
+
+EYE WITH IRITIS
+
+Signs :
+pupil small
+often irregular
+redness around iris
+severe pain
+
+Iritis usually happens in one eye only. Pain may begin suddenly or gradually. The
+eye waters a lot. It hurts more in bright light. The eyeball hurts when you touch it.
+There is no pus as with conjunctivitis. Vision is usually blurred.
+This is an emergency. Antibiotic ointments do not help. Get medical help.
+
+<!-- page 222 -->
+GLAUCOMA
+This dangerous disease is the result of too much pressure in the eye. It usually
+begins after the age of 40 and is a common cause of blindness. To prevent blindness,
+it is important to recognize the signs of glaucoma and get medical help fast.
+There are 2 forms of glaucoma.
+ACUTE GLAUCOMA:
+This starts suddenly with a headache or severe pain in the eye. The eye becomes
+red, the vision blurred. The eyeball feels hard to the touch, like a marble. There may be
+vomiting. The pupil of the bad eye is bigger than that of the good eye.
+normal
+
+glaucoma
+
+If not treated very soon, acute glaucoma will cause blindness within a few days.
+Surgery is often needed. Get medical help fast.
+CHRONIC GLAUCOMA:
+The pressure in the eye rises slowly. Usually there is no pain. Vision is lost slowly,
+starting from the side, and often the person does not notice the loss. Testing the side
+vision may help detect the disease.
+TEST FOR GLAUCOMA
+Have the person cover one
+eye, and with the other look
+at an object straight ahead of
+him. Note when he can first see
+moving fingers coming from
+behind on each side of the head.
+
+Normally fingers are first seen here.
+In glaucoma, finger movement is
+first seen more toward the front.
+
+If discovered early, treatment with special eyedrops (pilocarpine) may prevent
+blindness. Dosage should be determined by a doctor or health worker who can
+measure the eye pressure periodically. Drops must be used for the rest of one’s life.
+When possible, eye surgery is usually the surest form of treatment.
+Prevention:
+Persons who are over 40 years old or have relatives with glaucoma should try to
+have their eye pressure checked once a year.
+
+<!-- page 223 -->
+INFECTION OF THE TEAR SAC (DACRYOCYSTITIS)
+Signs:
+Redness, pain, and swelling
+beneath the eye, next to the nose.
+The eye waters a lot. A drop of pus
+may appear in the corner of the eye
+when the swelling is gently pressed.
+Treatment:
+♦  Apply hot compresses.
+♦  Put antibiotic eye drops or ointment in the eye.
+♦  Take penicillin (p. 350).
+
+TROUBLE SEEING CLEARLY
+Children who have trouble seeing clearly or who get headaches or eye pain
+when they read may need glasses. Have their eyes examined.
+In older persons, it is normal that, with passing years,
+it becomes more difficult to see close things clearly.
+Reading glasses often help. Pick glasses that let you see
+clearly about 40 cm. (15 inches) away from your eyes.
+If glasses do not help, see an eye doctor.
+
+CROSS EYES AND A WANDERING OR ‘LAZY’ EYE
+(STRABISMUS, ‘SQUINT’)
+If the eye sometimes wanders like this, but
+at other times looks ahead normally, usually you
+need not worry. The eye will grow straighter in
+time. But if the eye is always turned the wrong
+way, and if the child is not treated at a very early
+age, she may never see well with that eye. See
+an eye doctor as soon as possible to find out
+if patching of the good eye, surgery, or special
+glasses might help.
+Surgery done at a later age can usually straighten the eye and improve the
+child’s appearance, but it will not help the weak eye see better.
+IMPORTANT: The eyesight of every child should be
+checked as early as possible (best around 4 years).
+You can use an ‘E’ chart (see Helping Health Workers
+Learn, p. 24-13). Test each eye separately to discover
+any problem that affects only one eye. If sight is poor in
+one or both eyes, see an eye doctor.
+
+<!-- page 224 -->
+STY (HORDEOLUM)
+A red, swollen lump on the eyelid, usually near
+its edge. To treat, apply warm, moist compresses
+with a little salt in the water. Use of an antibiotic
+eye ointment 3 times a day will help prevent more
+sties from occurring.
+
+PTERYGIUM
+A fleshy thickening on the eye surface that
+slowly grows out from the edge of the white part
+of the eye near the nose and onto the cornea;
+caused in part by sunlight, wind, and dust. Dark
+glasses may help calm irritation and slow the
+growth of a pterygium. It should be removed by
+surgery before it reaches the pupil. Unfortunately,
+after surgery a pterygium often grows back again.
+Folk treatments using powdered shells do more
+harm than good. To help calm itching and burning
+you can try using cold compresses. Or use eye
+drops of camomile (well boiled, then strained, cooled,
+and without sugar).
+
+A SCRAPE, ULCER, OR SCAR ON THE CORNEA
+When the very thin, delicate surface of the cornea
+has been scraped, or damaged by infection, a painful
+corneal ulcer may result. If you look hard in a good
+light, you may see a grayish or less shiny patch on the
+surface of the cornea.
+If not well cared for, a corneal ulcer can cause
+blindness. Apply antibiotic eye ointment, 4 times a
+day for 7 days, give penicillin (p. 350), and cover the
+eye with a patch. If the eye is not better in 2 days, get
+medical help.
+A corneal scar is a painless, white patch on the
+cornea. It may result from a healed corneal ulcer,
+burn, or other injury to the eye. If both eyes are
+blind but the person still sees light, surgery (corneal
+transplant) to one eye may return its sight. But this is
+expensive. If one eye is scarred, but sight is good in
+the other, avoid surgery. Take care to protect the good
+eye from injury.
+
+<!-- page 225 -->
+BLEEDING IN THE WHITE OF THE EYE
+A painless, blood-red patch in the white part of the
+eye occasionally appears after lifting something heavy,
+coughing hard (as with whooping cough), or being hit
+on the eye. The condition results from the bursting of a
+small vessel. It is harmless, like a bruise, and will slowly
+disappear without treatment in about 2 weeks.
+Small red patches are common on the eyes of newborn
+babies. No treatment is needed.
+
+BLEEDING BEHIND THE CORNEA (HYPHEMA)
+Blood behind the cornea is a danger sign. It
+usually results from an injury to the eye with a blunt
+object, like a fist. If there is pain and loss of sight,
+refer the person to an eye specialist immediately. If
+the pain is mild and there is not loss of sight, patch
+both eyes and keep the person at rest in bed for
+several days. If after a few days the pain becomes
+much worse, there is probably hardening of the eye
+(glaucoma, p. 222). Take the person to an eye doctor
+at once.
+
+PUS BEHIND THE CORNEA (HYPOPYON)
+Pus behind the cornea is a sign of severe
+inflammation. It is sometimes seen with corneal
+ulcers and is a sign that the eye is in danger. Give
+penicillin (p. 350) and get medical help at once.
+If the ulcer is treated correctly, the hypopyon will
+often clear up by itself.
+
+CATARACT
+The lens of the eye, behind the pupil, becomes
+cloudy, making the pupil look gray or white when
+you shine a light into it. Cataract is common in older
+persons, but also occurs, rarely, in babies. If a blind
+person with cataracts can still tell light from dark and
+notice movement, surgery may let him see again.
+However, he will need strong glasses afterward,
+which take time to get used to. Medicines do not help
+cataracts. (Now sometimes during surgery an artificial
+lens is put inside the eye so that strong eyeglasses are
+not needed.)
+
+<!-- page 226 -->
+NIGHT BLINDNESS AND XEROPHTHALMIA
+(VITAMIN A DEFICIENCY)
+This eye disease is most common in children between
+1 and 5 years of age. It comes from not eating enough
+foods with vitamin A. If not recognized and treated
+early, it can make the child blind.
+Signs:
+• At first, the child may have night blindness. He
+cannot see as well in the dark as other people
+can.
+• Later, he develops dry eyes
+(xerophthalmia). The white of the eyes
+loses its shine and begins to wrinkle.
+• Patches of little gray bubbles (Bitot’s spots)
+may form in the eyes.
+• As the disease gets worse, the cornea also
+becomes dry and dull, and may develop little pits.
+• Then the cornea may quickly grow soft, bulge,
+or even burst. Usually there is no pain.
+Blindness may result from infection, scarring, or
+other damage.
+• Xerophthalmia often begins, or gets worse,
+when a child is sick with another illness like
+diarrhea, whooping cough, tuberculosis, or
+measles. Examine the eyes of all sick and
+underweight children. Open the child’s eyes
+and look for signs of vitamin A deficiency.
+Prevention and treatment:
+Xerophthalmia can easily be prevented by eating foods that have vitamin A.
+Do the following:
+♦   Breast feed the baby—up to 2 years, if possible.
+♦   After the first 6 months, begin giving the child
+foods rich in vitamin A, such as dark green leafy
+vegetables, and yellow or orange fruits and
+vegetables such as papaya (paw paw), mango,
+and squash. Whole milk, eggs, and liver are
+also rich in vitamin A.
+♦   If the child is not likely to get these foods, or
+if he is developing signs of night blindness or
+xerophthalmia, give him vitamin A. 200,000 units
+(60 mg. retinol, in capsule or liquid) once every
+6 months (p. 391). Babies under 1 year of age
+should get 100,000 units.
+
+<!-- page 227 -->
+♦  If the condition is already fairly severe, give the child 200,000 units of vitamin
+A the first day. 200,000 units the second day, and 200,000 units 14 days later.
+Babies under 1 year old should get half that amount (100,000 units).
+♦  In communities where xerophthalmia is common, give 200,000 units of
+vitamin A once every 6 months to women who are breast feeding, and also to
+pregnant women during the second half of their pregnancy.
+WARNING: Too much vitamin A is poisonous. Do not give more than the amounts
+advised here.
+If the condition of the child’s eye is severe, with a dull, pitted, or bulging cornea,
+get medical help. The child’s eye should be bandaged, and he should receive
+vitamin A at once, preferably an injection of 100,000 units.
+Dark green leafy vegetables, and yellow or orange fruits
+and vegetables, help prevent blindness in children.
+
+SPOTS OR ‘FLIES’ BEFORE THE EYES
+(MOUCHES VOLANTES)
+Sometimes older persons complain of small moving spots when they look at a
+bright surface (wall, sky). The spots move when the eyes move and look like tiny
+flies. These spots are usually harmless and need no treatment. But if they appear
+suddenly in large numbers and vision begins to fail from one side, this could be a
+medical emergency (detached retina). Seek medical help at once.
+
+DOUBLE VISION
+Seeing double can have many causes.
+If double vision comes suddenly, is chronic, or
+gradually gets worse, it is probably a sign of a serious
+problem. Seek medical help.
+If double vision occurs only from time to time, it may be a sign of weakness or
+exhaustion, perhaps from malnutrition. Read Chapter 11 on good nutrition and try to
+eat as well as possible. If sight does not improve, get medical help.
+
+RIVER BLINDNESS (ONCHOCERCIASIS)
+This disease is common in many parts of Africa and certain
+areas of southern Mexico, Central America, and northern South
+America. The infection is caused by tiny worms that are carried
+from person to person by small, hump backed flies or gnats
+known as black flies (simulids).
+The worms are ‘injected’ into a person when an infected
+black fly bites him.
+
+BLACK FLY
+actual size
+
+<!-- page 228 -->
+Signs of river blindness:
+• Several months after a black fly bites and the
+worms enter the body, lumps begin to form
+under the skin. In the Americas the lumps are
+most common on the head and upper body; in
+Africa on the chest, the lower body, and thighs.
+Often there are no more than 3 to 6 lumps. They
+grow slowly to a size of 2 to 3 cm. across. They
+are usually painless.
+• There may be itching when the baby worms are
+spreading.
+• Pains in the back, shoulder or hip joints, or
+‘general pains all over’.
+• Enlargement of the lymph nodes in the groin.
+• Thickening of the skin on the back or belly, with
+big pores like the skin of an orange. To see this,
+look at the skin with light shining across it from
+one side.
+• If the disease is not treated, the skin gradually becomes more wrinkled, like an old
+man’s. White spots and patches may appear on the front of the lower legs. A dry
+rash may appear on the lower limbs and trunk.
+• Eye problems often lead to blindness. First there may be redness and tears, then
+signs of iritis (p. 221). The cornea becomes dull and pitted as in xerophthalmia
+(p. 226). Finally, sight is lost because of corneal scarring, cataract, glaucoma, or
+other problems.
+Treatment of river blindness:
+Early treatment can prevent blindness. In areas where river blindness is known to
+occur, seek medical testing and treatment when the first signs appear.
+♦ Ivermectin (Mectizan) is the best medicine for river blindness, and it may be
+available at no cost through your local health department. Diethylcarbamazine and
+suramin are other medicines used to treat river blindness, but these can sometimes
+do more harm than good, especially when eye damage has already begun. They
+should only be given by experienced health workers. For dosage and precautions
+on all these medicines, see p. 377.
+♦ Antihistamines help reduce itching (p. 385).
+♦ Early surgical removal of the lumps lowers the number of worms.
+Prevention:
+♦ Black flies breed in fast-running water. Clearing brush and vegetation back from the
+banks of fast-running streams may help reduce the number.
+♦ Avoid sleeping out-of-doors—especially in the daytime, which is when the flies
+usually bite.
+♦ Cooperate with programs for the control of black flies.
+♦ Early treatment prevents blindness and reduces spread of the disease.

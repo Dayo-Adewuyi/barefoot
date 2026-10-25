@@ -1,0 +1,349 @@
+{
+  "workers": [
+    {
+      "code": "CHW-001",
+      "ward": "ward-4",
+      "cadre": "CHEW"
+    },
+    {
+      "code": "CHW-002",
+      "ward": "ward-2",
+      "cadre": "JCHEW"
+    }
+  ],
+  "stock": {
+    "CHW-001": [
+      {
+        "sku": "RDT-MAL",
+        "name": "Malaria rapid diagnostic test (RDT)",
+        "unit": "test",
+        "price_ngn": 800,
+        "qty": 12,
+        "reorder_level": 5,
+        "keywords": [
+          "rdt",
+          "malaria test",
+          "test"
+        ]
+      },
+      {
+        "sku": "ACT-CHILD",
+        "name": "ACT (artemether-lumefantrine) child pack, weight-band chart on pack",
+        "unit": "pack",
+        "price_ngn": 1500,
+        "qty": 4,
+        "reorder_level": 3,
+        "keywords": [
+          "act",
+          "antimalarial",
+          "artemether",
+          "lumefantrine",
+          "malaria"
+        ]
+      },
+      {
+        "sku": "ACT-ADULT",
+        "name": "ACT (artemether-lumefantrine) adult pack",
+        "unit": "pack",
+        "price_ngn": 2800,
+        "qty": 6,
+        "reorder_level": 3,
+        "keywords": [
+          "act",
+          "antimalarial",
+          "artemether",
+          "lumefantrine",
+          "malaria"
+        ]
+      },
+      {
+        "sku": "ORS",
+        "name": "Oral rehydration salts (ORS) sachet",
+        "unit": "sachet",
+        "price_ngn": 200,
+        "qty": 30,
+        "reorder_level": 10,
+        "keywords": [
+          "ors",
+          "rehydration",
+          "diarrhoea",
+          "diarrhea"
+        ]
+      },
+      {
+        "sku": "ZINC-10",
+        "name": "Zinc dispersible tablets, 10-day course",
+        "unit": "course",
+        "price_ngn": 600,
+        "qty": 8,
+        "reorder_level": 4,
+        "keywords": [
+          "zinc",
+          "diarrhoea",
+          "diarrhea"
+        ]
+      },
+      {
+        "sku": "AMOX-DT",
+        "name": "Amoxicillin dispersible tablets, child course",
+        "unit": "course",
+        "price_ngn": 1200,
+        "qty": 5,
+        "reorder_level": 3,
+        "keywords": [
+          "amoxicillin",
+          "antibiotic",
+          "pneumonia"
+        ]
+      },
+      {
+        "sku": "PCM-SYR",
+        "name": "Paracetamol syrup",
+        "unit": "bottle",
+        "price_ngn": 700,
+        "qty": 10,
+        "reorder_level": 4,
+        "keywords": [
+          "paracetamol",
+          "fever",
+          "pain"
+        ]
+      },
+      {
+        "sku": "ACT-JUNIOR",
+        "name": "ACT (artemether-lumefantrine 20/120 mg) junior pack, 15-34 kg, weight-band chart on pack",
+        "unit": "pack",
+        "price_ngn": 2000,
+        "qty": 5,
+        "reorder_level": 2,
+        "keywords": [
+          "act",
+          "artemether",
+          "lumefantrine",
+          "malaria",
+          "junior"
+        ]
+      },
+      {
+        "sku": "PCM-500",
+        "name": "Paracetamol 500 mg tablets, 3-day course (18 tablets)",
+        "unit": "course",
+        "price_ngn": 300,
+        "qty": 20,
+        "reorder_level": 5,
+        "keywords": [
+          "paracetamol",
+          "pcm",
+          "pain",
+          "fever"
+        ]
+      },
+      {
+        "sku": "AMOX-250",
+        "name": "Amoxicillin 250 mg capsules, 5-day course (15 capsules)",
+        "unit": "course",
+        "price_ngn": 1000,
+        "qty": 8,
+        "reorder_level": 3,
+        "keywords": [
+          "amoxicillin",
+          "amox",
+          "antibiotic",
+          "pneumonia"
+        ]
+      },
+      {
+        "sku": "AMOX-500",
+        "name": "Amoxicillin 500 mg capsules, 5-day course (15 capsules)",
+        "unit": "course",
+        "price_ngn": 1500,
+        "qty": 8,
+        "reorder_level": 3,
+        "keywords": [
+          "amoxicillin",
+          "amox",
+          "antibiotic",
+          "pneumonia",
+          "typhoid"
+        ]
+      },
+      {
+        "sku": "COTRI-480",
+        "name": "Co-trimoxazole 480 mg tablets, 5-day course (10 tablets)",
+        "unit": "course",
+        "price_ngn": 600,
+        "qty": 6,
+        "reorder_level": 2,
+        "keywords": [
+          "co-trimoxazole",
+          "cotrimoxazole",
+          "septrin",
+          "dysentery"
+        ]
+      },
+      {
+        "sku": "COTRI-960",
+        "name": "Co-trimoxazole 960 mg tablets, 3-day course (6 tablets)",
+        "unit": "course",
+        "price_ngn": 700,
+        "qty": 6,
+        "reorder_level": 2,
+        "keywords": [
+          "co-trimoxazole",
+          "cotrimoxazole",
+          "septrin",
+          "diarrhoea"
+        ]
+      },
+      {
+        "sku": "METRO-200",
+        "name": "Metronidazole 200 mg tablets, 5-day course (15 tablets)",
+        "unit": "course",
+        "price_ngn": 400,
+        "qty": 6,
+        "reorder_level": 2,
+        "keywords": [
+          "metronidazole",
+          "flagyl",
+          "dysentery"
+        ]
+      },
+      {
+        "sku": "METRO-400",
+        "name": "Metronidazole 400 mg tablets, 5-day course (15 tablets)",
+        "unit": "course",
+        "price_ngn": 600,
+        "qty": 6,
+        "reorder_level": 2,
+        "keywords": [
+          "metronidazole",
+          "flagyl",
+          "diarrhoea"
+        ]
+      }
+    ],
+    "CHW-002": [
+      {
+        "sku": "RDT-MAL",
+        "name": "Malaria rapid diagnostic test (RDT)",
+        "unit": "test",
+        "price_ngn": 800,
+        "qty": 2,
+        "reorder_level": 5,
+        "keywords": [
+          "rdt",
+          "malaria test",
+          "test"
+        ]
+      },
+      {
+        "sku": "ACT-CHILD",
+        "name": "ACT (artemether-lumefantrine) child pack, weight-band chart on pack",
+        "unit": "pack",
+        "price_ngn": 1500,
+        "qty": 0,
+        "reorder_level": 3,
+        "keywords": [
+          "act",
+          "antimalarial",
+          "artemether",
+          "lumefantrine",
+          "malaria"
+        ]
+      },
+      {
+        "sku": "ORS",
+        "name": "Oral rehydration salts (ORS) sachet",
+        "unit": "sachet",
+        "price_ngn": 200,
+        "qty": 15,
+        "reorder_level": 10,
+        "keywords": [
+          "ors",
+          "rehydration",
+          "diarrhoea",
+          "diarrhea"
+        ]
+      },
+      {
+        "sku": "PCM-500",
+        "name": "Paracetamol 500 mg tablets, 3-day course (18 tablets)",
+        "unit": "course",
+        "price_ngn": 300,
+        "qty": 10,
+        "reorder_level": 5,
+        "keywords": [
+          "paracetamol",
+          "pcm",
+          "pain",
+          "fever"
+        ]
+      },
+      {
+        "sku": "AMOX-500",
+        "name": "Amoxicillin 500 mg capsules, 5-day course (15 capsules)",
+        "unit": "course",
+        "price_ngn": 1500,
+        "qty": 3,
+        "reorder_level": 3,
+        "keywords": [
+          "amoxicillin",
+          "amox",
+          "antibiotic",
+          "pneumonia",
+          "typhoid"
+        ]
+      }
+    ]
+  },
+  "facilities": [
+    {
+      "id": "phc-w4",
+      "name": "Demo PHC, Ward 4",
+      "type": "phc",
+      "phone": "+234 000 000 0401",
+      "accepting": true,
+      "distance_km": {
+        "ward-4": 1.5,
+        "ward-2": 9
+      }
+    },
+    {
+      "id": "phc-w2",
+      "name": "Demo PHC, Ward 2",
+      "type": "phc",
+      "phone": "+234 000 000 0201",
+      "accepting": true,
+      "distance_km": {
+        "ward-4": 8,
+        "ward-2": 1.2
+      }
+    },
+    {
+      "id": "gh-a",
+      "name": "Demo General Hospital A",
+      "type": "general_hospital",
+      "phone": "+234 000 000 1001",
+      "accepting": false,
+      "distance_km": {
+        "ward-4": 6,
+        "ward-2": 12
+      }
+    },
+    {
+      "id": "gh-b",
+      "name": "Demo General Hospital B",
+      "type": "general_hospital",
+      "phone": "+234 000 000 1002",
+      "accepting": true,
+      "distance_km": {
+        "ward-4": 14,
+        "ward-2": 7
+      }
+    }
+  ],
+  "payments": [],
+  "dispenses": [],
+  "referrals": [],
+  "mock_outcomes": {}
+}
