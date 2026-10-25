@@ -21,7 +21,11 @@
   line in one reply and calls `handover_to_human` only on the worker's **next**
   message, repeating the details first if things got worse. Alerting is the first
   item on the go-live note. Trade-off: if the worker never writes again, no
-  handover happens.
+  handover happens. Retested on 25 Oct with a suspected Ebola case: the referral
+  (`REF-C142D6`, facility and phone) arrived first; on "patient left" the agent
+  handed over with the referral code in the reason, and Chord sent "One moment —
+  connecting you with a teammate." Then I handed the thread back with
+  `POST /v1/threads/{id}/hand-back`.
 - **What Chord should change:** deliver the turn's reply before switching to
   `human_active` (or document that it is dropped); refuse to enable
   `handover_to_human` until a notification target is set; show "handed to a human,
