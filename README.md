@@ -66,7 +66,7 @@ mcp-server/                  The custom tool: MCP server (TypeScript, Express)
   src/chord-relay.ts         Signs and forwards verified payments to Chord
   public/paid.html           Page payers land on after checkout
   data/seed.json             Synthetic workers, stock, prices and facilities
-  test/                      23-check end-to-end smoke test + Chord signature vectors
+  test/                      26-check end-to-end smoke test + Chord signature vectors
 scripts/
   split_standing_orders.py   Rebuilds knowledge/national-guidelines/ from the CHPRBN PDFs
   split_book.py              Rebuilds the handbook chapters from the PDF
@@ -81,7 +81,7 @@ docs/                        Problem statement, field notes, go-live note, Chord
 ```bash
 cd mcp-server
 npm install
-npm test            # Chord signature vectors + 23-check end-to-end smoke test
+npm test            # Chord signature vectors + 26-check end-to-end smoke test
 cp .env.example .env
 npm run dev         # http://localhost:8787/mcp, mock checkout at /mock/pay/<ref>
 ```

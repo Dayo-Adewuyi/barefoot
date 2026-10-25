@@ -240,6 +240,7 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       const result = await createPayment({ ...a, payer: "sponsor" });
       if ("isError" in result) return result;
       const view = JSON.parse(result.content[0].text) as Json;
+      if (view.already_paid) return result; // never invite a sponsor to pay twice
       const message =
         `Hello. A community health worker with Barefoot is treating your family member (ref ${a.patient_code}). ` +
         `The medicine costs ₦${view.amount_ngn}. You can pay securely here: ${view.payment_link}. ` +
@@ -303,6 +304,12 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
         return fail("not_paid", `Payment ${ref} is ${p.status}, not success.`, "Do not release. Call verify_payment first.");
       }
       return store.write((d) => {
+        // Re-check inside the lock: a concurrent dispense or refund may have landed.
+        const pay = d.payments.find((x) => x.reference === ref)!;
+        if (pay.dispensed_receipt) return ok({ already_dispensed: true, receipt: pay.dispensed_receipt, reference: ref });
+        if (pay.status !== "success") {
+          return fail("not_paid", `Payment ${ref} is ${pay.status}, not success.`, "Do not release. Call verify_payment first.");
+        }
         const item = (d.stock[p.worker_code] ?? []).find((i) => i.sku === p.sku);
         if (!item || item.qty < p.quantity) {
           return fail("out_of_stock", `${p.sku} ran out after payment.`, "Call refund_payment, then offer a referral or another vendor.", {
@@ -311,7 +318,6 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
         }
         item.qty -= p.quantity;
         const receipt = shortId("RCPT");
-        const pay = d.payments.find((x) => x.reference === ref)!;
         pay.dispensed_receipt = receipt;
         d.dispenses.push({
           receipt,
@@ -349,18 +355,23 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
       if (p.status === "refunded") return ok({ reference: ref, status: "refunded", already_refunded: true });
       if (p.dispensed_receipt) return fail("already_dispensed", "This item was already dispensed.", "Hand over to a human if there is a dispute.");
       if (p.status !== "success") return fail("nothing_to_refund", `Payment is ${p.status}.`, "No money was taken; nothing to refund.");
-      try {
-        await paystack.refund(ref);
-      } catch (err) {
-        return fail("gateway_error", `Refund failed: ${(err as Error).message}`, "Hand over to a human to complete the refund.");
-      }
-      await store.write((d) => {
+      // ponytail: the Paystack call runs inside the store lock so a dispense can't
+      // slip in between the check and the refund; it holds other writes for up to
+      // the 15 s fetch timeout. Use a "refunding" status if that ever matters.
+      return store.write(async (d) => {
         const pay = d.payments.find((x) => x.reference === ref)!;
+        if (pay.dispensed_receipt) return fail("already_dispensed", "This item was already dispensed.", "Hand over to a human if there is a dispute.");
+        if (pay.status === "refunded") return ok({ reference: ref, status: "refunded", already_refunded: true });
+        try {
+          await paystack.refund(ref);
+        } catch (err) {
+          return fail("gateway_error", `Refund failed: ${(err as Error).message}`, "Hand over to a human to complete the refund.");
+        }
         pay.status = "refunded";
         pay.refunded_at = new Date().toISOString();
         pay.refund_reason = reason;
+        return ok({ reference: ref, status: "refunded", amount_ngn: ngn(p.amount_kobo), message_for_worker: "The payment has been refunded to the payer." });
       });
-      return ok({ reference: ref, status: "refunded", amount_ngn: ngn(p.amount_kobo), message_for_worker: "The payment has been refunded to the payer." });
     },
   );
 
@@ -400,7 +411,10 @@ export function registerTools(server: McpServer, store: Store, paystack: Paystac
         urgency,
         facility: { name: chosen.name, phone: chosen.phone, distance_km: chosen.distance_km[worker.ward] ?? null },
         skipped,
-        next_step: urgency === "emergency" ? "Send the patient now, then call handover_to_human." : "Tell the worker when the patient should go.",
+        next_step:
+          urgency === "emergency"
+            ? "Give the worker the facility, referral code and phone now. Do NOT call handover_to_human in this reply: call it on the worker's next message."
+            : "Tell the worker when the patient should go.",
       });
     },
   );

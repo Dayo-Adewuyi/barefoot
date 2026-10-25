@@ -11,6 +11,7 @@ import path from "node:path";
 import fs from "node:fs";
 import { Client } from "@modelcontextprotocol/sdk/client/index.js";
 import { StreamableHTTPClientTransport } from "@modelcontextprotocol/sdk/client/streamableHttp.js";
+import { Store } from "../src/store.js";
 
 const PORT = 18787;
 const TOKEN = "smoke-test-token";
@@ -88,6 +89,8 @@ async function main() {
   check("payment verifies as success", paid.body.status === "success", paid.body);
   const again2 = await call("create_payment_link", { worker_code: "CHW-001", patient_code: "P-1042", sku: "ACT-CHILD" });
   check("paid but undispensed item gets no new link", again2.body.already_paid === true && again2.body.reference === ref, again2.body);
+  const sponsorAgain = await call("request_sponsor_payment", { worker_code: "CHW-001", patient_code: "P-1042", sku: "ACT-CHILD", sponsor_relationship: "mother's son" });
+  check("paid item sends the sponsor no new pay message", sponsorAgain.body.already_paid === true && !("message_to_forward" in sponsorAgain.body), sponsorAgain.body);
 
   // 5. Dispense, idempotently
   const disp = await call("record_dispense", { reference: ref });
@@ -124,6 +127,13 @@ async function main() {
   // 9. Emergency referral skips the full hospital
   const refl = await call("create_referral", { worker_code: "CHW-001", patient_code: "P-1042", urgency: "emergency", reason: "convulsions" });
   check("emergency referral skips the hospital not accepting", refl.body.facility.name === "Demo General Hospital B" && refl.body.skipped.length === 1, refl.body);
+  check("emergency referral defers the handover to the next message", /next message/.test(refl.body.next_step) && /Do NOT call handover_to_human/.test(refl.body.next_step), refl.body.next_step);
+
+  // 9. A corrupt ledger stops the server instead of being reseeded (payments kept)
+  const corrupt = path.join(path.dirname(dataFile), "corrupt.json");
+  fs.writeFileSync(corrupt, "{ not json");
+  const threw = await new Store(corrupt, "data/seed.json").load().then(() => false, () => true);
+  check("corrupt ledger is not overwritten with seed data", threw && fs.readFileSync(corrupt, "utf8") === "{ not json");
 
   await client.close();
   server.kill();

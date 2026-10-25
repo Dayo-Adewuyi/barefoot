@@ -6,7 +6,7 @@ import { config } from "./config.js";
  * can act without the worker typing "it's paid".
  *
  * Chord's inbound signature: sha256=hex(HMAC_SHA256(secret, `${ts}.` + rawBody)),
- * with X-Chord-Timestamp in seconds. See docs/chord-notes.md.
+ * with X-Chord-Timestamp in seconds. Checked against Chord's vectors in test/signing.ts.
  */
 export function chordRelayEnabled(): boolean {
   return Boolean(config.chord.eventSubscriptionId && config.chord.eventSigningSecret);

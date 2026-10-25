@@ -100,7 +100,10 @@ export class Store {
   async load(): Promise<void> {
     try {
       this.data = JSON.parse(await fs.readFile(this.file, "utf8"));
-    } catch {
+    } catch (err) {
+      // Seed only a missing ledger. A corrupt one must stop the server, not be
+      // overwritten with seed data and lose every payment.
+      if ((err as NodeJS.ErrnoException).code !== "ENOENT") throw err;
       this.data = JSON.parse(await fs.readFile(this.seedFile, "utf8"));
       await this.persist();
     }
