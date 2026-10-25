@@ -128,3 +128,9 @@ Paystack test checkout; point the Paystack test webhook at
 - Patients are identified by pseudonymous codes only; names are rejected by the
   tool schema.
 
+
+## How AI was used
+
+I provided the technical direction: the product, the architecture, the payment and
+safety rules, and the decisions on what to build. AI was simply used to write some of
+the integration code to that direction.
